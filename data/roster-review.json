@@ -1,0 +1,597 @@
+{
+  "date": "2026-10-03",
+  "verified": 47,
+  "slots": [
+    {
+      "screenshot": "IMG_4219",
+      "position": "上排第1位",
+      "id": "36",
+      "star": "紅5",
+      "appearance": "海邊嬉戲",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4219",
+      "position": "上排第2位",
+      "id": "57",
+      "star": "紅3",
+      "appearance": "靈魂鼓手",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4219",
+      "position": "上排第3位",
+      "id": "18",
+      "star": "紅1",
+      "appearance": "少女名偵探",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4219",
+      "position": "上排第4位",
+      "id": "65",
+      "star": "紅5",
+      "appearance": "愛在星輝時",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4219",
+      "position": "上排第5位",
+      "id": "9",
+      "star": "紅4",
+      "appearance": "摸魚高手",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4219",
+      "position": "上排第6位",
+      "id": "93",
+      "star": "紅1",
+      "appearance": "沙灘城堡",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4219",
+      "position": "下排第1位",
+      "id": "72",
+      "star": "紫1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4219",
+      "position": "下排第2位",
+      "id": "91",
+      "star": "紫1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4219",
+      "position": "下排第3位",
+      "id": "87",
+      "star": "紫6",
+      "appearance": "超凡女俠",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4219",
+      "position": "下排第4位",
+      "id": "51",
+      "star": "紫5",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4219",
+      "position": "下排第5位",
+      "id": "52",
+      "star": "紫5",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4219",
+      "position": "下排第6位",
+      "id": "15",
+      "star": "金6",
+      "appearance": "金獅鬧春",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "上排第1位",
+      "id": "5",
+      "star": "紫1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "上排第2位",
+      "id": "74",
+      "star": "金5",
+      "appearance": "新版外觀",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "上排第3位",
+      "id": "64",
+      "star": "紫1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "上排第4位",
+      "id": "28",
+      "star": "紅1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "上排第5位",
+      "id": "76",
+      "star": "紫1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "上排第6位",
+      "id": "8",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "下排第1位",
+      "id": "105",
+      "star": "紫1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "下排第2位",
+      "id": "3",
+      "star": "紫5",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "下排第3位",
+      "id": "67",
+      "star": "紫5",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "下排第4位",
+      "id": null,
+      "star": "紫5",
+      "appearance": "藍髮幽魂，不能當成暗影元素",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "下排第5位",
+      "id": "12",
+      "star": "紫1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4220",
+      "position": "下排第6位",
+      "id": "104",
+      "star": "紫3",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "上排第1位",
+      "id": "29",
+      "star": "紫1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "上排第2位",
+      "id": "4",
+      "star": "紫1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "上排第3位",
+      "id": "2",
+      "star": "紫1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "上排第4位",
+      "id": null,
+      "star": "紫3",
+      "appearance": "史詩紅色幼龍，不能當成限定斷罪之翼",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "上排第5位",
+      "id": "31",
+      "star": "紫1",
+      "appearance": "新版外觀",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "上排第6位",
+      "id": "71",
+      "star": "紫1",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "下排第1位",
+      "id": null,
+      "star": "紫1",
+      "appearance": "史詩紅色小惡魔，不能當成限定惡欲魔王",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "下排第2位",
+      "id": "89",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "下排第3位",
+      "id": "49",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "下排第4位",
+      "id": null,
+      "star": "紫3",
+      "appearance": "史詩粉髮花靈，不能當成傳說妖精仙后",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "下排第5位",
+      "id": null,
+      "star": "紫1",
+      "appearance": "史詩獨眼獠牙射手，與蠻地獵手分開",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4221",
+      "position": "下排第6位",
+      "id": "101",
+      "star": "紫1",
+      "appearance": "新版外觀",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "上排第1位",
+      "id": "46",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "上排第2位",
+      "id": "30",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "上排第3位",
+      "id": "69",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "上排第4位",
+      "id": "48",
+      "star": "金6",
+      "appearance": "史詩版本",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "上排第5位",
+      "id": "85",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "上排第6位",
+      "id": "99",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "下排第1位",
+      "id": "88",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "下排第2位",
+      "id": "70",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "下排第3位",
+      "id": "86",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "下排第4位",
+      "id": "32",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "下排第5位",
+      "id": null,
+      "star": "金6",
+      "appearance": "史詩紅鬍斧手，未列入原表獨立條目",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4222",
+      "position": "下排第6位",
+      "id": "62",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "上排第1位",
+      "id": null,
+      "star": "金6",
+      "appearance": "史詩精靈盾衛，與傳說奧伯隆妮分開",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "上排第2位",
+      "id": null,
+      "star": "金6",
+      "appearance": "精英紅髮女劍士，與史詩齊格菲分開",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "上排第3位",
+      "id": "68",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "上排第4位",
+      "id": null,
+      "star": "金6",
+      "appearance": "史詩黑髮黃圍巾刺客",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "上排第5位",
+      "id": "66",
+      "star": "金5",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "上排第6位",
+      "id": "106",
+      "star": "金5",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "下排第1位",
+      "id": "82",
+      "star": "金5",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "下排第2位",
+      "id": null,
+      "star": "金6",
+      "appearance": "精英精靈弓手",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "下排第3位",
+      "id": null,
+      "star": "金6",
+      "appearance": "精英矮人射手",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "下排第4位",
+      "id": null,
+      "star": "金6",
+      "appearance": "精英哥布林重錘手",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "下排第5位",
+      "id": null,
+      "star": "金6",
+      "appearance": "精英木乃伊盾衛",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4223",
+      "position": "下排第6位",
+      "id": null,
+      "star": "金6",
+      "appearance": "精英紅眼木乃伊盾衛",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "上排第1位",
+      "id": null,
+      "star": "金6",
+      "appearance": "精英白鬍法師",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "上排第2位",
+      "id": null,
+      "star": "金6",
+      "appearance": "精英黃裙妖精牧師",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "上排第3位",
+      "id": null,
+      "star": "金6",
+      "appearance": "精英黃鬍盾衛",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "上排第4位",
+      "id": "102",
+      "star": "金6",
+      "appearance": "",
+      "status": "已核對"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "上排第5位",
+      "id": null,
+      "star": "金5",
+      "appearance": "史詩灰狼刺客，與魅夜之狩芬里爾分開",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "上排第6位",
+      "id": null,
+      "star": "金3",
+      "appearance": "精英白髮紫膚刺客",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "下排第1位",
+      "id": null,
+      "star": "金3",
+      "appearance": "精英哥布林刺客",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "下排第2位",
+      "id": null,
+      "star": "金2",
+      "appearance": "普通火焰史萊姆",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "下排第3位",
+      "id": null,
+      "star": "金2",
+      "appearance": "普通雷電史萊姆",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "下排第4位",
+      "id": null,
+      "star": "金2",
+      "appearance": "普通岩土史萊姆",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "下排第5位",
+      "id": null,
+      "star": "金2",
+      "appearance": "普通暗色史萊姆",
+      "status": "角色名／品質待補"
+    },
+    {
+      "screenshot": "IMG_4224",
+      "position": "下排第6位",
+      "id": null,
+      "star": "金2",
+      "appearance": "普通綠色史萊姆",
+      "status": "角色名／品質待補"
+    }
+  ],
+  "withdrawn": [
+    "1",
+    "21",
+    "22",
+    "27",
+    "39",
+    "44",
+    "47",
+    "63",
+    "79",
+    "81",
+    "95",
+    "98"
+  ],
+  "note": "未匹配的低品質角色保留獨立紀錄，不能套用同名高品質版本。未在截圖確認不代表未持有。"
+}
