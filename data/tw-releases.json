@@ -1,0 +1,319 @@
+{
+  "server": "台服",
+  "checkedAt": "2026-10-03",
+  "definition": "台服首次開放取得日期；活動兌換採解鎖日期，非公告刊登日或返場日。",
+  "characters": {
+    "1": {
+      "date": "2026-03-05",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260304/7800.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "2": {
+      "date": "2026-02-12",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260204/7743.html",
+      "basis": "依台服活動開始日加六天計算本體兌換解鎖日；卡池推出可能較晚。",
+      "derived": true
+    },
+    "5": {
+      "date": "2026-05-21",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260519/7997.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "6": {
+      "date": "2025-12-18",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20251209/7604.html",
+      "basis": "依台服活動開始日加六天計算本體兌換解鎖日；卡池推出可能較晚。",
+      "derived": true
+    },
+    "7": {
+      "date": "2025-08-14",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250812/7252.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "10": {
+      "date": "2025-01-27",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250124/6590.html",
+      "basis": "台服春節活動開放日；取得本體仍須達成活動條件。",
+      "derived": false
+    },
+    "13": {
+      "date": "2025-04-24",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250423/6861.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "15": {
+      "date": "2025-10-30",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20251028/7472.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "16": {
+      "date": "2026-07-09",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260707/8105.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "17": {
+      "date": "2025-05-29",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250529/7014.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "18": {
+      "date": "2026-09-10",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260904/8225.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "19": {
+      "date": "2026-06-18",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260616/8060.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "20": {
+      "date": "2026-05-07",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260505/7968.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "22": {
+      "date": "2025-10-09",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20251007/7408.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "24": {
+      "date": "2025-11-20",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20251118/7536.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "25": {
+      "date": "2025-07-17",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250714/7167.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "28": {
+      "date": "2025-04-06",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250330/6793.html",
+      "basis": "依 3/31 起登入活動的第七天可領取本體計算；須完成連續登入條件。",
+      "derived": true
+    },
+    "33": {
+      "date": "2025-03-20",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250319/6744.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "34": {
+      "date": "2025-08-07",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250806/7232.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "37": {
+      "date": "2026-07-02",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260630/8086.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "38": {
+      "date": "2026-02-26",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260224/7784.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "39": {
+      "date": "2026-01-29",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260127/7725.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "40": {
+      "date": "2025-11-06",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20251105/7501.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "42": {
+      "date": "2025-08-28",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250820/7282.html",
+      "basis": "依結婚大作戰 8/22 開始、六天後解鎖本體兌換計算。",
+      "derived": true
+    },
+    "50": {
+      "date": "2025-05-15",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250513/6960.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "52": {
+      "date": "2025-05-22",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html",
+      "basis": "台服維護更新新增常駐池角色。",
+      "derived": false
+    },
+    "55": {
+      "date": "2025-12-11",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20251209/7604.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "56": {
+      "date": "2026-08-20",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260819/8194.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "57": {
+      "date": "2026-09-24",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260923/8255.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "59": {
+      "date": "2026-06-04",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260602/8026.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "60": {
+      "date": "2026-01-15",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260113/7690.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "62": {
+      "date": "2025-07-03",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250701/7124.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "63": {
+      "date": "2025-03-27",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250325/6777.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "67": {
+      "date": "2025-05-22",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html",
+      "basis": "台服維護更新新增常駐池角色。",
+      "derived": false
+    },
+    "72": {
+      "date": "2026-05-28",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260527/8012.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "73": {
+      "date": "2025-09-18",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250917/7358.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "76": {
+      "date": "2026-04-09",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260331/7871.html",
+      "basis": "依台服活動開始日加六天計算本體兌換解鎖日；卡池推出可能較晚。",
+      "derived": true
+    },
+    "77": {
+      "date": "2025-07-31",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250730/7214.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "78": {
+      "date": "2026-03-12",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260311/7822.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "79": {
+      "date": "2025-02-13",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250212/6635.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "80": {
+      "date": "2025-12-04",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20251202/7576.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "81": {
+      "date": "2025-10-23",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20251015/7432.html",
+      "basis": "依台服活動開始日加六天計算本體兌換解鎖日；卡池推出可能較晚。",
+      "derived": true
+    },
+    "83": {
+      "date": "2025-04-10",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250409/6824.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "85": {
+      "date": "2025-05-22",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html",
+      "basis": "台服維護更新新增常駐池角色。",
+      "derived": false
+    },
+    "90": {
+      "date": "2025-02-13",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250212/6635.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "91": {
+      "date": "2026-10-01",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260930/8261.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "92": {
+      "date": "2026-01-22",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260120/7708.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "94": {
+      "date": "2026-07-30",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260728/8151.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "95": {
+      "date": "2026-03-26",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20260324/7851.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "96": {
+      "date": "2025-09-11",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250909/7334.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "97": {
+      "date": "2026-01-01",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20251230/7651.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "98": {
+      "date": "2025-05-29",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250529/7014.html",
+      "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    }
+  }
+}
