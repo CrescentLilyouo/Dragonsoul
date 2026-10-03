@@ -20,3 +20,13 @@ PUT the complete validated news snapshot to `/api/updates`; then GET it again an
 - `/api/updates` GET/PUT is the supported private unattended data path.
 
 Three squad presets have six distinct characters each, and no repeats across squads within the same mode. These are suggested mixed-faction PvE trial lineups, not universally valid faction-tower teams or proven PvP meta. The third squad is explicitly underbuilt. Sleep ultimate charges nonmatching factions; that caveat is shown. Honoka's screenshot is red one, correcting a previous purple-one misidentification.
+
+## GitHub Pages
+
+Published branch source: `main` / root. Enable Settings → Pages → Deploy from a branch → main / (root). `index.html`, `assets/`, `public/portraits/`, and `news.json` are ready to serve.
+
+Build with `npm run build:pages`; copy pages-dist/index.html and pages-dist/assets to repository root. The source entry remains pages/index.html. Preserve existing hashed assets until the new build is deployed.
+
+Pages roster edits use localStorage (dragon-roster-v1), with import/export backups. They are local to each browser. Six faction teams are data/faction-teams.json, each checked against character faction tags. Faction teams are independent attempts, not six simultaneous squads.
+
+Weekly updater: use authenticated GitHub tools to read current main news.json in CrescentLilyouo/Dragonsoul and data/news.json. Summarize Taiwan official sources sod.game-beans.com/news.game-beans.com; preserve history, valid schema, Asia/Taipei dates and separate predictions. Commit the same validated JSON to both files with current base SHA, never force push. Read back main news.json to verify. Pages reads news.json at runtime so no JS rebuild is needed for news updates. On source failures retain the previous data. Do not change roster. Existing private Site can also be updated through its original supported API.
