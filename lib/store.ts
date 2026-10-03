@@ -1,0 +1,4 @@
+import { env } from 'cloudflare:workers';
+export async function readSnapshot(key:string) { if(!env.DB) throw new Error('資料暫時無法讀取'); const row = await env.DB.prepare('SELECT payload, updated_at FROM snapshots WHERE key = ?').bind(key).first<{payload:string,updated_at:string}>(); return row ? JSON.parse(row.payload) : null; }
+export async function writeSnapshot(key:string,payload:unknown) { if(!env.DB) throw new Error('資料暫時無法儲存'); const at=new Date().toISOString(); await env.DB.prepare('INSERT INTO snapshots (key,payload,updated_at) VALUES (?,?,?) ON CONFLICT(key) DO UPDATE SET payload=excluded.payload, updated_at=excluded.updated_at').bind(key,JSON.stringify(payload),at).run(); return at; }
+export function rejectCrossOrigin(r:Request) {const origin=r.headers.get('origin'); return origin && origin!==new URL(r.url).origin;}

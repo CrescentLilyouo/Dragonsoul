@@ -1,0 +1,6 @@
+import {readSnapshot,writeSnapshot,rejectCrossOrigin} from '@/lib/store';
+import roster from '@/data/roster.json';
+import news from '@/data/news.json';
+import chars from '@/data/characters.json';
+export async function GET(){try{return Response.json({roster:await readSnapshot('roster')??roster,news:await readSnapshot('news')??news,schedule:await readSnapshot('schedule')??{enabled:false,title:'每週四 21:00（台灣）',status:'尚未啟用'}})}catch(e){console.error(e);return Response.json({error:'資料暫時無法讀取，請稍後重新載入。'},{status:503})}}
+export async function PATCH(r:Request){if(rejectCrossOrigin(r))return Response.json({error:'來源不符'},{status:403}); try{const raw=await r.json();if(!raw||typeof raw!=='object')return Response.json({error:'資料格式不正確'},{status:400});const b=raw as Record<string,unknown>;if(typeof b.id!=='string'||!chars.some(c=>c.id===b.id)||typeof b.owned!=='boolean'||typeof b.star!=='string'||b.star.length>30||typeof b.note!=='string'||b.note.length>500)return Response.json({error:'角色資料格式不正確'},{status:400});const current=await readSnapshot('roster')??roster;current[b.id]={owned:b.owned,star:b.star,note:b.note,confirmed:true};await writeSnapshot('roster',current);return Response.json({roster:current});}catch(e){console.error(e);return Response.json({error:'未能儲存；變更仍保留於畫面，請重試。'},{status:503})}}
