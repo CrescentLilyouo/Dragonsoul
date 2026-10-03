@@ -1,0 +1,1853 @@
+{
+  "checkedAt": "2026-10-03",
+  "reviewedNotices": 243,
+  "originalSource": "https://reurl.cc/rKOAXk",
+  "characters": {
+    "0": {
+      "items": [
+        {
+          "name": "2025/05 新版外觀",
+          "kind": "新版外觀",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/G2025052105.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "2025/05/22 官方調整過此角色外觀；新版與舊版可能外貌差異很大。新版介紹圖不能當成另一名角色。",
+      "status": "已有官方外觀對照"
+    },
+    "1": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026030202.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260304/7800.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "逐波踏浪",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026081210.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260812/8183.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "2": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026020302.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260204/7743.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "春桃納福",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026020309.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260204/7743.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "3": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "4": {
+      "items": [
+        {
+          "name": "能工巧匠",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026071403.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260714/8121.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "5": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026051901.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260519/7997.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "臥底女僕",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026051902.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260519/7997.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "6": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025120903.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251209/7604.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "雪國特攻",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025120907.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250109/6834.html",
+            "https://sod.game-beans.com/jx/sodNotice/20251209/7604.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "7": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/B2025081102.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250812/7252.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "冰刃舞者",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/B2025081103.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250812/7252.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "8": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "9": {
+      "items": [
+        {
+          "name": "摸魚高手",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/H2025061005.bmp",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250612/7063.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "10": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/057 (7).jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250124/6590.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "春燈寄夢",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/057 (6).jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250124/6590.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "熱浪暴擊",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/H2025061007.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250612/7063.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "11": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "12": {
+      "items": [
+        {
+          "name": "田徑部主將",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/E2025101402.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251015/7432.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "13": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/D2025042202.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250423/6861.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "魅影怪盜",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/D2025042203.bmp",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250423/6861.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "14": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "15": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/W2025102801.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251028/7472.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "金獅鬧春",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026020310.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260204/7743.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "16": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026070702.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260707/8105.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "17": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/Q2025052804.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250529/7014.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "冬日槍神",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025120906.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251209/7604.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "18": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026090402.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260904/8225.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "少女名偵探",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026090403.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260904/8225.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "少女名偵探是達達尼昂的造型；帽子、外套與原皮不同。",
+      "status": "已有官方外觀對照"
+    },
+    "19": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026061501.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260616/8060.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "人氣作家",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026061502.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260616/8060.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "20": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026042801.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260505/7968.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "退魔女高",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026042802.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260505/7968.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "21": {
+      "items": [
+        {
+          "name": "BUFFet女團",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026033103.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260331/7871.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "22": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025092502.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251007/7408.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "花房姑娘",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025092503.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251007/7408.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "24": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025111802.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251118/7536.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "電玩高手",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025111803.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251118/7536.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "25": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025071401.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250714/7167.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "緋紅女郎",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025071402.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250714/7167.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "財神到",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026020303.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260204/7743.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "27": {
+      "items": [
+        {
+          "name": "甜心護士",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/H2025061003.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250611/7062.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "台服官方稱霜星獵手・俄里翁；原表稱雙星獵手，已保留為搜尋別名。",
+      "status": "已有官方外觀對照"
+    },
+    "28": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/C2025032503.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250330/6793.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "29": {
+      "items": [
+        {
+          "name": "極限爭鋒",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025120905.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251209/7604.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "30": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "31": {
+      "items": [
+        {
+          "name": "2025/05 新版外觀",
+          "kind": "新版外觀",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/G2025052104.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "2025/05/22 官方調整過此角色外觀；新版與舊版可能外貌差異很大。新版介紹圖不能當成另一名角色。",
+      "status": "已有官方外觀對照"
+    },
+    "32": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "33": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025031701.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250319/6744.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "34": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/F2025080401.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250806/7232.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "35": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "36": {
+      "items": [
+        {
+          "name": "海邊嬉戲",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026081204.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260812/8183.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "海邊嬉戲是瑪莉・蘿絲的泳裝外觀，不是新增角色。",
+      "status": "已有官方外觀對照"
+    },
+    "37": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026062902.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260630/8086.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "飆馬女郎",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026062903.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260630/8086.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "38": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026021202.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260224/7784.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "霓虹麗影",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026021204.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260224/7784.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "39": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026012702.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260127/7725.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "元氣龍女僕",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026012703.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260127/7725.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "40": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025110502.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251105/7501.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "棒球英豪",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025110504.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251105/7501.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "42": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/F2025082006.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250820/7282.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "喜結良緣",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/F2025082005.bmp",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250820/7282.html",
+            "https://sod.game-beans.com/jx/sodNotice/20250827/7298.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "44": {
+      "items": [
+        {
+          "name": "官方外觀（未標名稱）",
+          "kind": "造型名稱待補",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/56.jpeg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250226/6675.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "46": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "47": {
+      "items": [
+        {
+          "name": "揚帆啟航",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/H2025061004.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250612/7063.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "屠龍勇士・齊格菲的夏日造型只能用於該品質版本，不能與戎裝公主・齊格菲合併。",
+      "status": "已有官方外觀對照"
+    },
+    "48": {
+      "items": [],
+      "note": "戎裝公主是另一個品質條目；不要因同名齊格菲就套用屠龍勇士的造型。",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "49": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "50": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/G2025051302.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250513/6960.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "勇者之證",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/G2025051303.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250513/6960.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "51": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "52": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/G2025052109.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "53": {
+      "items": [
+        {
+          "name": "2025/05 新版外觀",
+          "kind": "新版外觀",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/G2025052103.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "2025/05/22 官方調整過此角色外觀；新版與舊版可能外貌差異很大。新版介紹圖不能當成另一名角色。",
+      "status": "已有官方外觀對照"
+    },
+    "54": {
+      "items": [
+        {
+          "name": "聖域戀語",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/F2025082003.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250820/7282.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "55": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025120902.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251209/7604.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "56": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026081801.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260819/8194.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "57": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026092202.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260923/8255.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "靈魂鼓手",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026092203.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260923/8255.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "靈魂鼓手是加拉哈德的造型；原皮的裝甲與舞台服差異很大。",
+      "status": "已有官方外觀對照"
+    },
+    "58": {
+      "items": [
+        {
+          "name": "首席料理人",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025092403.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250924/7378.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "59": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026060102.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260602/8026.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "不破門神",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026060103.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260602/8026.html",
+            "https://sod.game-beans.com/jx/sodNotice/20260608/8044.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "60": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026011302.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260113/7690.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "電玩高手",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026011303.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260113/7690.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "61": {
+      "items": [
+        {
+          "name": "滴酒成釀",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026041702.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260421/7928.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "62": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/W2025070102.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250701/7124.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "風馳車神",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/W2025070103.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250701/7124.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "63": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/C2025032401.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250325/6777.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "官方外觀（未標名稱）",
+          "kind": "造型名稱待補",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/C2025032402.bmp",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250325/6777.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "綠茵游龍",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026060803.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260608/8044.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "64": {
+      "items": [
+        {
+          "name": "官方外觀（未標名稱）",
+          "kind": "造型名稱待補",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/055.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250115/6580.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "65": {
+      "items": [
+        {
+          "name": "愛在星輝時",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/F2025082002.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250820/7282.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "愛在星輝時是奧伯隆妮的婚紗外觀，服裝及配色與原皮不同。",
+      "status": "已有官方外觀對照"
+    },
+    "66": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "67": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/G2025052108.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "68": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "69": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "70": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "71": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "72": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026052502.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260527/8012.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "73": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025091601.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250917/7358.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "天外來客",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026060804.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260608/8044.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "74": {
+      "items": [
+        {
+          "name": "2025/05 新版外觀",
+          "kind": "新版外觀",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/G2025052110.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "田徑部部長",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/E2025101404.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251015/7432.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "2025/05/22 官方調整過此角色外觀；新版與舊版可能外貌差異很大。新版介紹圖不能當成另一名角色。",
+      "status": "已有官方外觀對照"
+    },
+    "75": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "76": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026033102.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260331/7871.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "BUFFet女團",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026033106.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260331/7871.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "77": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/R2025072902.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250730/7214.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "胡桃夾子",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/R2025072903.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250730/7214.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "檢閱後防",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026060802.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260608/8044.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "78": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026031101.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260311/7822.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "雪域奇兵",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026031102.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260311/7822.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "79": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/61 (1).jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250212/6635.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "官方外觀（未標名稱）",
+          "kind": "造型名稱待補",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/61 (4).jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250212/6635.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "海灘天使",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/H2025061006.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250612/7063.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "80": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025120102.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251202/7576.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "律政佳人",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025120103.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251202/7576.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "81": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/E2025101406.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251015/7432.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "網球部主將",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/E2025101405.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251015/7432.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "82": {
+      "items": [
+        {
+          "name": "香街走馬",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026020304.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260204/7743.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "83": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/E2025040802.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250409/6824.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "音你閃耀",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/E2025040803.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250409/6824.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "85": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/G2025052107.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "冬季鹿鈴",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025120904.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251209/7604.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "86": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "87": {
+      "items": [
+        {
+          "name": "超凡女俠",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/G2025052111.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "88": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "89": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "90": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/61 (5).jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250212/6635.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "BUFFet女團",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026033105.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260331/7871.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "91": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026092903.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260930/8261.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "92": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026011902.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260120/7708.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "93": {
+      "items": [
+        {
+          "name": "沙灘城堡",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026081208.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260812/8183.html",
+            "https://sod.game-beans.com/jx/sodNotice/20260825/8204.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "沙灘城堡是穗香的泳裝造型；不要和粉髮的莫甘娜僅凭髮色區分。",
+      "status": "已有官方外觀對照"
+    },
+    "94": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026072802.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260728/8151.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "詭麗狂想",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026072803.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260728/8151.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "95": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/J2026032302.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260324/7851.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "叢林奇兵",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/J2026032303.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260324/7851.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "96": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/2025090801.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250909/7334.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "聖心降魔",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/2025090802.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250909/7334.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "97": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025122901.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251230/7651.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "臨停檢查",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2025122902.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251230/7651.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "椰風夏韻",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026081209.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260812/8183.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "莫甘娜有臨停檢查與椰風夏韻造型；粉髮、泳裝不是穗香專屬的辨識點。",
+      "status": "已有官方外觀對照"
+    },
+    "98": {
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/Q2025052803.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250529/7014.html"
+          ],
+          "verified": "官方角色介紹段落",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "夢筆生花",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/Q2025052802.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250529/7014.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "BUFFet女團",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/A2026033104.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20260331/7871.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "薇薇安可見原表頭像、夢筆生花與 BUFFet 女團等不同外觀。不要只用服色辨認；請連名字、牧師職業及元素／聖堂陣營一起核對。",
+      "status": "已有官方外觀對照"
+    },
+    "99": {
+      "items": [
+        {
+          "name": "弓道部主將",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/E2025101403.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20251015/7432.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "100": {
+      "items": [
+        {
+          "name": "純白心意",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/F2025082004.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250820/7282.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "101": {
+      "items": [
+        {
+          "name": "2025/05 新版外觀",
+          "kind": "新版外觀",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/G2025052102.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250522/6991.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "2025/05/22 官方調整過此角色外觀；新版與舊版可能外貌差異很大。新版介紹圖不能當成另一名角色。",
+      "status": "已有官方外觀對照"
+    },
+    "102": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "103": {
+      "items": [
+        {
+          "name": "官方外觀（未標名稱）",
+          "kind": "造型名稱待補",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/2025031102.png",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20250312/6718.html"
+          ],
+          "verified": "官方圖說對應",
+          "checkedAt": "2026-10-03"
+        }
+      ],
+      "note": "",
+      "status": "已有官方外觀對照"
+    },
+    "104": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "105": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    },
+    "106": {
+      "items": [],
+      "note": "",
+      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+    }
+  }
+}
