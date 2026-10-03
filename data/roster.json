@@ -421,5 +421,329 @@
     "screenshot": "IMG_4224",
     "position": "上排第4位",
     "appearance": ""
+  },
+  "0": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "1": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "6": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "7": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "10": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "11": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "13": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "14": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "16": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "17": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "19": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "20": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "21": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "22": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "24": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "25": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "27": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "33": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "34": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "35": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "37": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "38": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "39": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "40": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "42": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "44": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "47": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "50": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "53": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "54": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "55": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "56": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "58": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "59": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "60": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "61": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "63": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "73": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "75": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "77": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "78": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "79": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "80": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "81": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "83": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "90": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "92": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "94": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "95": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "96": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "97": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "98": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "100": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "103": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
   }
 }
