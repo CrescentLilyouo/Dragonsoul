@@ -1877,10 +1877,10 @@
     "class": "法師",
     "quality": "限定   傳說+",
     "factions": [
-      "曠野",
-      "幻境"
+      "幻境",
+      "曠野"
     ],
-    "role": "",
+    "role": "蛛網／結繭控制、變身輸出（台服官方技能摘要）",
     "portrait": "/portraits/75.png",
     "variants": [
       {
@@ -2601,8 +2601,8 @@
         "equipment": "攻擊套/急速套\n減費套",
         "oldNote": "機制條件嚴苛，特定組合用，元素隊剋星",
         "newNote": "",
-        "pvp": "",
-        "tower": "",
+        "pvp": "S",
+        "tower": "A",
         "specialist": false
       }
     ]

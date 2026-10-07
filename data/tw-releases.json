@@ -1,6 +1,6 @@
 {
   "server": "台服",
-  "checkedAt": "2026-10-03",
+  "checkedAt": "2026-10-08",
   "definition": "台服首次開放取得日期；活動兌換採解鎖日期，非公告刊登日或返場日。",
   "characters": {
     "1": {
@@ -313,6 +313,12 @@
       "date": "2025-05-29",
       "source": "https://sod.game-beans.com/jx/sodNotice/20250529/7014.html",
       "basis": "台服全新角色公告及首發召喚開放日。",
+      "derived": false
+    },
+    "75": {
+      "date": "2026-10-08",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20261006/8269.html",
+      "basis": "台服紡命蛛母首次限定召喚開放日。",
       "derived": false
     }
   }

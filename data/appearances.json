@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-03",
+  "checkedAt": "2026-10-08",
   "reviewedNotices": 243,
   "originalSource": "https://reurl.cc/rKOAXk",
   "characters": {
@@ -489,6 +489,16 @@
           ],
           "verified": "官方圖說對應",
           "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "鋼甲雄心",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026092906.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20261006/8269.html"
+          ],
+          "verified": "台服官方圖說對應",
+          "checkedAt": "2026-10-08"
         }
       ],
       "note": "",
@@ -615,6 +625,16 @@
           ],
           "verified": "官方角色介紹段落",
           "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "凡世之神",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026092907.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20261006/8269.html"
+          ],
+          "verified": "台服官方圖說對應",
+          "checkedAt": "2026-10-08"
         }
       ],
       "note": "",
@@ -983,6 +1003,16 @@
           ],
           "verified": "官方圖說對應",
           "checkedAt": "2026-10-03"
+        },
+        {
+          "name": "神盾女俠",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026092905.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20261006/8269.html"
+          ],
+          "verified": "台服官方圖說對應",
+          "checkedAt": "2026-10-08"
         }
       ],
       "note": "",
@@ -1261,9 +1291,30 @@
       "status": "已有官方外觀對照"
     },
     "75": {
-      "items": [],
+      "items": [
+        {
+          "name": "官方角色介紹",
+          "kind": "官方介紹",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/T2026092904.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20261006/8269.html"
+          ],
+          "verified": "台服官方圖說對應",
+          "checkedAt": "2026-10-08"
+        },
+        {
+          "name": "超凡新星",
+          "kind": "活動造型",
+          "image": "https://tw-media.game-beans.com/media/pictures/sod/J2026092905.jpg",
+          "sources": [
+            "https://sod.game-beans.com/jx/sodNotice/20261006/8269.html"
+          ],
+          "verified": "台服官方圖說對應",
+          "checkedAt": "2026-10-08"
+        }
+      ],
       "note": "",
-      "status": "原表頭像已收錄；尚未取得可核對的官方造型圖"
+      "status": "已有官方外觀對照"
     },
     "76": {
       "items": [
