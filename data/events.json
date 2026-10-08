@@ -1,0 +1,346 @@
+{
+  "checkedAt": "2026-10-08",
+  "sources": {
+    "guide": "https://forum.gamer.com.tw/C.php?bsn=81375&snA=976&tnum=1",
+    "current": "https://sod.game-beans.com/jx/sodNotice/20260930/8261.html",
+    "autumn": "https://news.game-beans.com/jx/sodNotice/20260923/8255.html",
+    "monster": "https://sod.game-beans.com/jx/sodNotice/20260714/8121.html",
+    "mine": "https://sod.game-beans.com/jx/sodNotice/20260608/8044.html",
+    "sea": "https://sod.game-beans.com/jx/sodNotice/20260916/8242.html",
+    "myth": "https://forum.gamer.com.tw/Co.php?bsn=81375&sn=1274",
+    "old": "https://shouyou.3dmgame.com/gl/582712.html",
+    "season": "https://sod.game-beans.com/jx/sodNotice/20260513/7984.html"
+  },
+  "items": [
+    {
+      "name": "神奇魔物在哪裡／限定煉製",
+      "group": "輪替養成",
+      "when": "本期 10/8 05:00～10/15 04:59（台灣）",
+      "goal": "建議低標：完成一輪積分獎勵",
+      "budget": "2,700 分：藍水 1,350 瓶，或紫水 270 瓶，或橘水 180 瓶；可以混用。",
+      "stop": "只計活動期間實際消耗。官方有第六輪，但未公開各輪完整分數；不要當成 2,700 分拿滿整期。",
+      "status": "台服玩家計分＋官方活動確認",
+      "sources": [
+        {
+          "label": "guide",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=81375&snA=976&tnum=1"
+        },
+        {
+          "label": "monster",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260714/8121.html"
+        },
+        {
+          "label": "本期官方",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20261006/8269.html"
+        }
+      ],
+      "start": "2026-10-08T05:00:00+08:00",
+      "end": "2026-10-15T04:59:00+08:00"
+    },
+    {
+      "name": "獵蟒行動／限定奪寶",
+      "group": "輪替養成",
+      "when": "上期 9/24–10/1；下一期未公告",
+      "goal": "建議低標：完成一輪積分獎勵",
+      "budget": "2,700 分：黃金號角 270 個，或命運號角 180 個；可以混用。",
+      "stop": "未到一輪就先存；一輪積分不等於湊齊指定神器套裝。",
+      "status": "台服玩家計分＋官方活動確認",
+      "sources": [
+        {
+          "label": "guide",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=81375&snA=976&tnum=1"
+        },
+        {
+          "label": "autumn",
+          "url": "https://news.game-beans.com/jx/sodNotice/20260923/8255.html"
+        }
+      ],
+      "start": "2026-09-24T05:00:00+08:00",
+      "end": "2026-10-01T04:59:00+08:00"
+    },
+    {
+      "name": "魔法衝刺／限定創造",
+      "group": "輪替養成",
+      "when": "本期 10/1 05:00–10/8 04:59",
+      "goal": "建議低標：完成一輪積分獎勵",
+      "budget": "2,700 分：傳承龍晶 900 個，或命運龍晶 540 個；可以混用。",
+      "stop": "先算本期已得分＋庫存；達標後保留下一輪資源，不因 UP 任意追加。",
+      "status": "台服玩家計分＋官方活動確認",
+      "sources": [
+        {
+          "label": "guide",
+          "url": "https://forum.gamer.com.tw/C.php?bsn=81375&snA=976&tnum=1"
+        },
+        {
+          "label": "current",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260930/8261.html"
+        }
+      ],
+      "start": "2026-10-01T05:00:00+08:00",
+      "end": "2026-10-08T04:59:00+08:00"
+    },
+    {
+      "name": "新傳說＋主題／升星好禮",
+      "group": "角色活動",
+      "when": "聖杯騎士本期至 10/8 04:59",
+      "goal": "劇情、任務先領；外觀門檻另算",
+      "budget": "歷史攻略以紫6外觀、400抽／12萬鑽作存量参考；不是本期保證。",
+      "stop": "依活動升星獎勵頁與現有本體計算差額，不能把角色功能門檻當成活動全獎門檻。",
+      "status": "外觀預算為2025舊攻略；本期需核對",
+      "sources": [
+        {
+          "label": "old",
+          "url": "https://shouyou.3dmgame.com/gl/582712.html"
+        },
+        {
+          "label": "autumn",
+          "url": "https://news.game-beans.com/jx/sodNotice/20260923/8255.html"
+        }
+      ],
+      "start": "2026-09-24T05:00:00+08:00",
+      "end": "2026-10-08T04:59:00+08:00"
+    },
+    {
+      "name": "神話召喚／累抽階段",
+      "group": "角色活動",
+      "when": "睡神本期至 10/15 04:59",
+      "goal": "選擇一個累抽檔位停手",
+      "budget": "歷史階段：30／60／90／150／240／300 抽；累計碎片 5／9／15／25／40／60。",
+      "stop": "300券只代表歷史階段最高檔，不保證紅一；須核對本期獎勵頁再追加。",
+      "status": "台服歷史玩家資料；本期門檻待核對",
+      "sources": [
+        {
+          "label": "myth",
+          "url": "https://forum.gamer.com.tw/Co.php?bsn=81375&sn=1274"
+        },
+        {
+          "label": "current",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260930/8261.html"
+        }
+      ],
+      "start": "2026-10-01T05:00:00+08:00",
+      "end": "2026-10-15T04:59:00+08:00"
+    },
+    {
+      "name": "神話戰令／升星計畫",
+      "group": "角色活動",
+      "when": "睡神本期至 10/15 04:59",
+      "goal": "免費任務先做；升星獎勵依實際星級",
+      "budget": "無可驗證的固定券數；付費戰令與升星稱號不算免費低標。",
+      "stop": "先領已達標獎勵，缺本體數與碎片再評估，不為稱號硬追。",
+      "status": "活動確認；完整門檻未公開",
+      "sources": [
+        {
+          "label": "current",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260930/8261.html"
+        }
+      ],
+      "start": "2026-10-01T05:00:00+08:00",
+      "end": "2026-10-15T04:59:00+08:00"
+    },
+    {
+      "name": "全角色特別返場",
+      "group": "角色活動",
+      "when": "本期已於10/8 04:59結束；下次未公告",
+      "goal": "先領每日免費10連",
+      "budget": "本期完整5天共50抽，額外鑽石投入可為0；錯過不可補領。",
+      "stop": "免費次數當日使用、限此池；50抽是免費供給，不是拿滿累抽獎勵門檻。",
+      "status": "台服本期官方確認",
+      "sources": [
+        {
+          "label": "current",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260930/8261.html"
+        }
+      ],
+      "start": "2026-10-01T05:00:00+08:00",
+      "end": "2026-10-08T04:59:00+08:00"
+    },
+    {
+      "name": "精選返場／歡顏之星",
+      "group": "角色活動",
+      "when": "歷史週活動；下一期未公告",
+      "goal": "本體保底與外觀兌換分開計算",
+      "budget": "需讀本期剩餘保底、階段獎勵與商店售價，未查得固定低標。",
+      "stop": "歷史規則保底可繼承，但歡顏之星期末回收；不能套用全角色返場規則。",
+      "status": "台服歷史官方規則",
+      "sources": [
+        {
+          "label": "mine",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260608/8044.html"
+        }
+      ],
+      "start": null,
+      "end": null
+    },
+    {
+      "name": "海神寶庫",
+      "group": "寶具與探索",
+      "when": "上期 9/17–10/1；下一期未公告",
+      "goal": "先選要換的寶具或山銅獎勵",
+      "budget": "消耗命運海螺；台服公告未列完整累抽／保底門檻。",
+      "stop": "先核對寶庫商店差額及池內剩餘保底；不將陸服220抽直接當台服低標。",
+      "status": "台服活動確認；數量待核對",
+      "sources": [
+        {
+          "label": "sea",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260916/8242.html"
+        }
+      ],
+      "start": "2026-09-17T05:00:00+08:00",
+      "end": "2026-10-01T04:59:00+08:00"
+    },
+    {
+      "name": "探寶尋珍",
+      "group": "寶具與探索",
+      "when": "歷史限時活動；下一期未公告",
+      "goal": "每日工具先領，選定一個深度／兌換目標",
+      "budget": "工具需求隨路線、障礙與目標變動，不能用固定鏟數保證拿滿。",
+      "stop": "先累計免費工具及目標商店價格，再補差額；勿把陸服挖掘層數套用台服。",
+      "status": "台服歷史官方規則",
+      "sources": [
+        {
+          "label": "mine",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260608/8044.html"
+        }
+      ],
+      "start": null,
+      "end": null
+    },
+    {
+      "name": "拼圖有禮",
+      "group": "任務與節慶",
+      "when": "本期至 10/8 04:59",
+      "goal": "完成全部拼圖",
+      "budget": "本期完成可得50鈴蘭；任務數與資源消耗需看任務頁。",
+      "stop": "先做不花鑽任務；公開公告不足以保證零資源完成全部拼圖。",
+      "status": "台服本期官方確認",
+      "sources": [
+        {
+          "label": "current",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260930/8261.html"
+        }
+      ],
+      "start": "2026-10-01T05:00:00+08:00",
+      "end": "2026-10-08T04:59:00+08:00"
+    },
+    {
+      "name": "公會探索／探索達人",
+      "group": "任務與節慶",
+      "when": "公會探索本期至 10/5 04:59",
+      "goal": "完成福利頁指定任務",
+      "budget": "使用公會探索次數；任務總次數未公開。",
+      "stop": "每日先做；是否要囤或加購次數，以剩餘任務為準。",
+      "status": "台服本期官方確認",
+      "sources": [
+        {
+          "label": "current",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260930/8261.html"
+        }
+      ],
+      "start": "2026-10-01T05:00:00+08:00",
+      "end": "2026-10-05T04:59:00+08:00"
+    },
+    {
+      "name": "陣營巡禮",
+      "group": "任務與節慶",
+      "when": "本期幻境巡禮 10/5–10/8 04:59",
+      "goal": "每日任務與目標獎勵兌換",
+      "budget": "以活動任務取得的兌換道具計算；完整商店成本未公開。",
+      "stop": "每日完成再兌換；不同陣營名稱仍需重新看當期要求。",
+      "status": "台服本期官方確認",
+      "sources": [
+        {
+          "label": "current",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260930/8261.html"
+        }
+      ],
+      "start": "2026-10-05T05:00:00+08:00",
+      "end": "2026-10-08T04:59:00+08:00"
+    },
+    {
+      "name": "中秋：七日獻禮／月相商店",
+      "group": "任務與節慶",
+      "when": "活動至 10/11；巡邏月餅至 10/10 04:59",
+      "goal": "先領登入獎勵，再選高價值兌換品",
+      "budget": "登入獎勵不需抽卡；商店低標＝所選商品月餅單價×數量，價格待核對。",
+      "stop": "掉落早一天停止；不要把商店全清當成免費低標。",
+      "status": "台服本期官方確認",
+      "sources": [
+        {
+          "label": "autumn",
+          "url": "https://news.game-beans.com/jx/sodNotice/20260923/8255.html"
+        }
+      ],
+      "start": "2026-09-24T05:00:00+08:00",
+      "end": "2026-10-11T04:59:00+08:00"
+    },
+    {
+      "name": "巴別塔試煉",
+      "group": "挑戰與賽季",
+      "when": "10/8～10/22；幻境／曠野，10/21 22:00排名結算",
+      "goal": "階段通關獎勵優先",
+      "budget": "需要兩陣營隊伍實際過關，沒有固定鑽石或抽券數可保證排名。",
+      "stop": "先用已養成角色；不為低排名獎勵臨時開新卡池。",
+      "status": "台服本期官方確認",
+      "sources": [
+        {
+          "label": "autumn",
+          "url": "https://news.game-beans.com/jx/sodNotice/20260923/8255.html"
+        }
+      ],
+      "start": "2026-10-08T05:00:00+08:00",
+      "end": "2026-10-22T04:59:00+08:00"
+    },
+    {
+      "name": "時之隙",
+      "group": "挑戰與賽季",
+      "when": "歷史規則約2個月、8階段；本季日期另核對",
+      "goal": "通關與限時階段目標",
+      "budget": "依通關能力與開放階段；未查得可換算的固定囤券低標。",
+      "stop": "以天氣效果與既有隊伍推進，不把排名大獎列作必拿。",
+      "status": "台服歷史官方規則",
+      "sources": [
+        {
+          "label": "season",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260513/7984.html"
+        }
+      ],
+      "start": null,
+      "end": null
+    },
+    {
+      "name": "大型主題活動：綠茵神杯等",
+      "group": "任務與節慶",
+      "when": "歷史活動存檔；未確認復刻",
+      "goal": "每日玩法、免費任務與選定商店目標",
+      "budget": "依當期專用道具與商店價目；無跨主題通用的資源數字。",
+      "stop": "個人活動倒數可能短於全服活動期；先查看自己的結束時間。",
+      "status": "台服歷史官方規則",
+      "sources": [
+        {
+          "label": "mine",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20260608/8044.html"
+        }
+      ],
+      "start": null,
+      "end": null
+    },
+    {
+      "name": "超能少女養成中／超能補給站",
+      "group": "大型主題",
+      "when": "10/8～12/3為總開放期；個人首次觸發後最多30天",
+      "goal": "先看帳號剩餘天數，優先完成免費每日任務與所需本體兌換",
+      "budget": "官方未列超凡能量兌換價格及完整獎勵表，無法確認拿滿低標的資源量；不填猜測數字。",
+      "stop": "超能招募券用於小遊戲，分數換超凡能量；先確認本體兌換價格再決定是否加抽或付費。",
+      "status": "活動確認／門檻待遊戲內核對",
+      "sources": [
+        {
+          "label": "台服官方",
+          "url": "https://sod.game-beans.com/jx/sodNotice/20261006/8269.html"
+        }
+      ],
+      "start": "2026-10-08T05:00:00+08:00",
+      "end": "2026-12-03T04:59:00+08:00"
+    }
+  ]
+}
