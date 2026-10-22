@@ -1,0 +1,604 @@
+[
+  {
+    "id": "45",
+    "name": "霸王之剑",
+    "image": "/gear-atlas/45.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "46",
+    "name": "霸王之证",
+    "image": "/gear-atlas/46.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "47",
+    "name": "百炼护手",
+    "image": "/gear-atlas/47.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "48",
+    "name": "百炼坚甲",
+    "image": "/gear-atlas/48.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "49",
+    "name": "百炼头盔",
+    "image": "/gear-atlas/49.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "50",
+    "name": "百炼勋章",
+    "image": "/gear-atlas/50.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "51",
+    "name": "百炼战刃",
+    "image": "/gear-atlas/51.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "52",
+    "name": "百炼长靴",
+    "image": "/gear-atlas/52.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "53",
+    "name": "繁星魔导器",
+    "image": "/gear-atlas/53.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "54",
+    "name": "繁星魔导书",
+    "image": "/gear-atlas/54.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "55",
+    "name": "丰饶的花束",
+    "image": "/gear-atlas/55.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "56",
+    "name": "丰饶之歌",
+    "image": "/gear-atlas/56.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "57",
+    "name": "古龙鳞片",
+    "image": "/gear-atlas/57.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "58",
+    "name": "幻影之刃",
+    "image": "/gear-atlas/58.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "59",
+    "name": "监视魔眼",
+    "image": "/gear-atlas/59.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "60",
+    "name": "拒绝的荆棘",
+    "image": "/gear-atlas/60.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "61",
+    "name": "君炎宝剑",
+    "image": "/gear-atlas/61.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "62",
+    "name": "君炎护甲",
+    "image": "/gear-atlas/62.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "63",
+    "name": "君炎护手",
+    "image": "/gear-atlas/63.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "64",
+    "name": "君炎头盔",
+    "image": "/gear-atlas/64.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "65",
+    "name": "君炎战靴",
+    "image": "/gear-atlas/65.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "66",
+    "name": "君炎之证",
+    "image": "/gear-atlas/66.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "67",
+    "name": "狼之意志",
+    "image": "/gear-atlas/67.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "68",
+    "name": "猎龙护手",
+    "image": "/gear-atlas/68.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "69",
+    "name": "猎龙巨弓",
+    "image": "/gear-atlas/69.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "70",
+    "name": "猎龙头盔",
+    "image": "/gear-atlas/70.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "71",
+    "name": "猎龙战甲",
+    "image": "/gear-atlas/71.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "72",
+    "name": "猎龙长靴",
+    "image": "/gear-atlas/72.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "73",
+    "name": "灵龟护符",
+    "image": "/gear-atlas/73.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "74",
+    "name": "龙血枫章",
+    "image": "/gear-atlas/74.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "75",
+    "name": "玛娜的潮汐",
+    "image": "/gear-atlas/75.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "76",
+    "name": "玛娜之泪",
+    "image": "/gear-atlas/76.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "77",
+    "name": "觅血剑",
+    "image": "/gear-atlas/77.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "78",
+    "name": "奇术护手",
+    "image": "/gear-atlas/78.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "79",
+    "name": "奇术长袍",
+    "image": "/gear-atlas/79.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "80",
+    "name": "奇术长靴",
+    "image": "/gear-atlas/80.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "81",
+    "name": "奇术兜帽",
+    "image": "/gear-atlas/81.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "82",
+    "name": "虔辉护手",
+    "image": "/gear-atlas/82.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "83",
+    "name": "虔辉礼冠",
+    "image": "/gear-atlas/83.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "84",
+    "name": "虔辉长袍",
+    "image": "/gear-atlas/84.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "85",
+    "name": "虔辉长靴",
+    "image": "/gear-atlas/85.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "86",
+    "name": "圣骑护手",
+    "image": "/gear-atlas/86.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "87",
+    "name": "圣骑头盔",
+    "image": "/gear-atlas/87.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "88",
+    "name": "圣骑战甲",
+    "image": "/gear-atlas/88.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "89",
+    "name": "圣骑战靴",
+    "image": "/gear-atlas/89.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "90",
+    "name": "圣树的庇佑",
+    "image": "/gear-atlas/90.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "91",
+    "name": "狩魔银剑",
+    "image": "/gear-atlas/91.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "92",
+    "name": "提丰之怒",
+    "image": "/gear-atlas/92.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "93",
+    "name": "痛苦魔盒",
+    "image": "/gear-atlas/93.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "94",
+    "name": "屠龙指南",
+    "image": "/gear-atlas/94.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "95",
+    "name": "亡焰之触",
+    "image": "/gear-atlas/95.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "96",
+    "name": "无敌喵喵拳",
+    "image": "/gear-atlas/96.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "97",
+    "name": "无尽圣剑",
+    "image": "/gear-atlas/97.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "98",
+    "name": "贤者法袍",
+    "image": "/gear-atlas/98.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "99",
+    "name": "贤者手环",
+    "image": "/gear-atlas/99.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "100",
+    "name": "贤者手套",
+    "image": "/gear-atlas/100.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "101",
+    "name": "贤者树冠",
+    "image": "/gear-atlas/101.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "102",
+    "name": "贤者长靴",
+    "image": "/gear-atlas/102.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "103",
+    "name": "贤者之杖",
+    "image": "/gear-atlas/103.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "104",
+    "name": "心灵魔镜",
+    "image": "/gear-atlas/104.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "105",
+    "name": "巡林客皮衣",
+    "image": "/gear-atlas/105.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "106",
+    "name": "巡林客手套",
+    "image": "/gear-atlas/106.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "107",
+    "name": "巡林客羽帽",
+    "image": "/gear-atlas/107.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "108",
+    "name": "巡林客长靴",
+    "image": "/gear-atlas/108.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "109",
+    "name": "夜枭护手",
+    "image": "/gear-atlas/109.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "110",
+    "name": "夜枭盔甲",
+    "image": "/gear-atlas/110.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "111",
+    "name": "夜枭面罩",
+    "image": "/gear-atlas/111.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "112",
+    "name": "夜枭之靴",
+    "image": "/gear-atlas/112.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "113",
+    "name": "鹰之战士肖像",
+    "image": "/gear-atlas/113.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "114",
+    "name": "勇武金靴",
+    "image": "/gear-atlas/114.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "115",
+    "name": "勇武盔甲",
+    "image": "/gear-atlas/115.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "116",
+    "name": "勇武头盔",
+    "image": "/gear-atlas/116.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "117",
+    "name": "勇武之臂",
+    "image": "/gear-atlas/117.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "118",
+    "name": "勇者勋章",
+    "image": "/gear-atlas/118.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "119",
+    "name": "月光水瓶",
+    "image": "/gear-atlas/119.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "120",
+    "name": "斩舰者",
+    "image": "/gear-atlas/120.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "121",
+    "name": "斩龙巨剑",
+    "image": "/gear-atlas/121.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "122",
+    "name": "真理的门扉",
+    "image": "/gear-atlas/122.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "123",
+    "name": "真理探究者纹章",
+    "image": "/gear-atlas/123.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "124",
+    "name": "镇魂曲",
+    "image": "/gear-atlas/124.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "125",
+    "name": "咒法利刃",
+    "image": "/gear-atlas/125.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "126",
+    "name": "诅咒护手",
+    "image": "/gear-atlas/126.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "127",
+    "name": "诅咒头盔",
+    "image": "/gear-atlas/127.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "128",
+    "name": "诅咒长袍",
+    "image": "/gear-atlas/128.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "129",
+    "name": "诅咒长靴",
+    "image": "/gear-atlas/129.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  },
+  {
+    "id": "130",
+    "name": "最后的低语",
+    "image": "/gear-atlas/130.png",
+    "source": "https://a.4399.cn/lhlr/tools/collection",
+    "sourceType": "4399陸服圖鑑（非台服官方）"
+  }
+]

@@ -1,0 +1,1156 @@
+{
+  "0": [
+    {
+      "name": "冥府之王 • 哈迪斯",
+      "row": "3",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "攻擊套/爆傷套\n斬艦+鷹像",
+      "portrait": "/verified-guide/9b7e5d8a4bdc6703.png",
+      "equipmentImages": []
+    }
+  ],
+  "1": [
+    {
+      "name": "捷足之神 • 赫爾墨斯",
+      "row": "4",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/cca8d236ac96482b.png",
+      "equipmentImages": []
+    }
+  ],
+  "2": [
+    {
+      "name": "永夜女王 • 莉莉絲",
+      "row": "5",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "生命套/加費套PVP                急速套/減費套PVE",
+      "portrait": "/verified-guide/debdf4ba27a9c324.png",
+      "equipmentImages": []
+    }
+  ],
+  "3": [
+    {
+      "name": "命運女忍者 • 霞",
+      "row": "6",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "低語/暴傷/雕像",
+      "portrait": "/verified-guide/a49bea6c390239cc.png",
+      "equipmentImages": []
+    }
+  ],
+  "4": [
+    {
+      "name": "刀鋒魔偶・皮諾丘",
+      "row": "7",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "低語/急速套/雕像",
+      "portrait": "/verified-guide/30aca11e4ac8f752.png",
+      "equipmentImages": []
+    }
+  ],
+  "5": [
+    {
+      "name": "鷹之勇者 • 齊格露德",
+      "row": "8",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "低語/急速套/雕像",
+      "portrait": "/verified-guide/20b84eb8e06e09a3.png",
+      "equipmentImages": []
+    }
+  ],
+  "6": [
+    {
+      "name": "無雙劍豪 • 凜",
+      "row": "9",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "攻速套+貓貓+聖樹",
+      "portrait": "/verified-guide/86fb1d976caae5cb.png",
+      "equipmentImages": []
+    }
+  ],
+  "7": [
+    {
+      "name": "幽冥公主 • 扎格柔絲",
+      "row": "10",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "急速套\n減費套/低語+雕像",
+      "portrait": "/verified-guide/45921164ad897abc.png",
+      "equipmentImages": []
+    }
+  ],
+  "8": [
+    {
+      "name": "復仇女神 • 涅墨西斯",
+      "row": "11",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "急速套\n減費套",
+      "portrait": "/verified-guide/445113d7aa704e90.png",
+      "equipmentImages": []
+    }
+  ],
+  "9": [
+    {
+      "name": "魅夜之狩 • 芬里爾",
+      "row": "12",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "低語/暴傷/雕像",
+      "portrait": "/verified-guide/9f89a074861a766f.png",
+      "equipmentImages": []
+    }
+  ],
+  "10": [
+    {
+      "name": "塵世巨蟒 • 耶夢加得",
+      "row": "13",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "攻擊套\n低語+鷹像",
+      "portrait": "/verified-guide/2ff75bd08f7bacf3.png",
+      "equipmentImages": []
+    }
+  ],
+  "11": [
+    {
+      "name": "太極宗師 • 潘君寶",
+      "row": "14",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "/",
+      "portrait": "/verified-guide/8082c858852f2791.png",
+      "equipmentImages": []
+    }
+  ],
+  "12": [
+    {
+      "name": "四聖 • 白虎",
+      "row": "15",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "/",
+      "portrait": "/verified-guide/53a0ea5dad6c9693.png",
+      "equipmentImages": []
+    }
+  ],
+  "13": [
+    {
+      "name": "死亡騎士 • 莫德雷德",
+      "row": "16",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "低語/急速套/雕像",
+      "portrait": "/verified-guide/b7015400992cbb3c.png",
+      "equipmentImages": []
+    }
+  ],
+  "14": [
+    {
+      "name": "湖上騎士 • 蘭斯洛特",
+      "row": "17",
+      "sheet": "刺客",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=3323578",
+      "equipment": "/",
+      "portrait": "/verified-guide/9f57d0b6d87b5702.png",
+      "equipmentImages": []
+    }
+  ],
+  "15": [
+    {
+      "name": "月亮女神 • 阿爾忒彌斯",
+      "row": "3",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "急速套/爆傷套\n降費套",
+      "portrait": "/verified-guide/f8b529c24820fcc5.png",
+      "equipmentImages": []
+    }
+  ],
+  "16": [
+    {
+      "name": "天后 • 赫拉",
+      "row": "4",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "急速套\n低語/鷹像",
+      "portrait": "/verified-guide/c63c3d49e140c214.png",
+      "equipmentImages": []
+    }
+  ],
+  "17": [
+    {
+      "name": "太陽神 • 阿波羅",
+      "row": "5",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "攻擊套/爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/9a156f3e8f95dd81.png",
+      "equipmentImages": []
+    }
+  ],
+  "18": [
+    {
+      "name": "皇家火槍手 • 達達尼昂",
+      "row": "6",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "急速套\n低語/鷹像",
+      "portrait": "/verified-guide/d7d1f0590ca9ab9d.png",
+      "equipmentImages": []
+    }
+  ],
+  "19": [
+    {
+      "name": "紳士怪盜 • 亞森羅蘋",
+      "row": "7",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "急速套\n減費套",
+      "portrait": "/verified-guide/a0c6938c3e1e4abc.png",
+      "equipmentImages": []
+    }
+  ],
+  "20": [
+    {
+      "name": "破魔巫女 • 卑彌呼",
+      "row": "8",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "攻擊套/爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/64a3e0d8fb52f5fc.png",
+      "equipmentImages": []
+    }
+  ],
+  "21": [
+    {
+      "name": "炎魔 • 依芙利特",
+      "row": "9",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "爆擊套/爆傷套\n低語/鷹像",
+      "portrait": "/verified-guide/49e2c0280a962d66.png",
+      "equipmentImages": []
+    }
+  ],
+  "22": [
+    {
+      "name": "腐敗花蕾 • 寧蘿絲",
+      "row": "10",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "攻速套/爆傷套\n低語/鷹像",
+      "portrait": "/verified-guide/ff3326cf132319f5.png",
+      "equipmentImages": []
+    },
+    {
+      "name": "腐敗花蕾 • 寧蘿絲         (專武)",
+      "row": "11",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "低語/鷹像/攻擊套",
+      "portrait": "/verified-guide/ff3326cf132319f5.png",
+      "equipmentImages": []
+    }
+  ],
+  "24": [
+    {
+      "name": "智慧巨人 • 密米爾",
+      "row": "12",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "急速套/爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/067b40d258576f32.png",
+      "equipmentImages": []
+    }
+  ],
+  "25": [
+    {
+      "name": "緋刃劍魂 • 荊",
+      "row": "13",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "爆擊套/暴傷套\n低語+楓葉",
+      "portrait": "/verified-guide/7c6ba4e9d1e2faa1.png",
+      "equipmentImages": []
+    },
+    {
+      "name": "緋刃劍魂 • 荊                   (專武)",
+      "row": "14",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "暴傷套\n低語+楓葉",
+      "portrait": "/verified-guide/7c6ba4e9d1e2faa1.png",
+      "equipmentImages": []
+    }
+  ],
+  "28": [
+    {
+      "name": "萬蛇之母 • 美杜莎",
+      "row": "16",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "攻速套+提豐+龍血\nor\n急速套+減費套",
+      "portrait": "/verified-guide/ec64ed03858a73aa.png",
+      "equipmentImages": []
+    }
+  ],
+  "29": [
+    {
+      "name": "雙生鴉靈 • 福金&霧尼",
+      "row": "17",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "攻速套\n提豐+鷹像",
+      "portrait": "/verified-guide/32b7f6142a129a09.png",
+      "equipmentImages": []
+    }
+  ],
+  "30": [
+    {
+      "name": "光耀元素 • 洛瑞琳",
+      "row": "18",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "攻擊套/爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/a6a37dac59ff408f.png",
+      "equipmentImages": []
+    }
+  ],
+  "31": [
+    {
+      "name": "獵魔人 • 范海辛",
+      "row": "19",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "/",
+      "portrait": "/verified-guide/93dc9a7fa6b671b5.png",
+      "equipmentImages": []
+    }
+  ],
+  "32": [
+    {
+      "name": "蠻地獵手 • 涅索斯",
+      "row": "20",
+      "sheet": "射手",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "equipment": "攻速套\n提豐+龍血",
+      "portrait": "/verified-guide/ce482102b5c75451.png",
+      "equipmentImages": []
+    }
+  ],
+  "33": [
+    {
+      "name": "戰神 • 阿瑞斯",
+      "row": "3",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "生命套\n減費套",
+      "portrait": "/verified-guide/e99d06cc21a3d26f.png",
+      "equipmentImages": []
+    }
+  ],
+  "34": [
+    {
+      "name": "雷神 • 索爾",
+      "row": "4",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "生命套\n吸血劍.雕像",
+      "portrait": "/verified-guide/028c35c0870e265d.png",
+      "equipmentImages": []
+    }
+  ],
+  "35": [
+    {
+      "name": "大力神 • 海克力斯",
+      "row": "5",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "降費套/生命套",
+      "portrait": "/verified-guide/190a1a6c6690f3be.png",
+      "equipmentImages": []
+    }
+  ],
+  "36": [
+    {
+      "name": "小惡魔女僕 • 瑪莉•蘿絲",
+      "row": "6",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "生命套/喵喵拳/龜殼",
+      "portrait": "/verified-guide/6a76d8cc22e8947b.png",
+      "equipmentImages": []
+    }
+  ],
+  "37": [
+    {
+      "name": "放浪行刑官 • 薩德",
+      "row": "7",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "降費/攻速套",
+      "portrait": "/verified-guide/f62cd86a4945b788.png",
+      "equipmentImages": []
+    }
+  ],
+  "38": [
+    {
+      "name": "亂世魔王 • 瞳",
+      "row": "8",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "攻擊套.低語                  楓葉/雕像",
+      "portrait": "/verified-guide/8e8c7a50be8963d5.png",
+      "equipmentImages": []
+    }
+  ],
+  "39": [
+    {
+      "name": "斷罪之翼 • 安德瓦莉",
+      "row": "9",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "",
+      "portrait": "/verified-guide/a43aef31df24cc25.png",
+      "equipmentImages": []
+    }
+  ],
+  "40": [
+    {
+      "name": "惡欲魔王 • 阿斯莫德",
+      "row": "10",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "生命套/急速套\n吸血劍.雕像",
+      "portrait": "/verified-guide/49efdfafaf1d43ea.png",
+      "equipmentImages": []
+    },
+    {
+      "name": "惡欲魔王 • 阿斯莫德         (專武)",
+      "row": "11",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "生命套/急速套\n吸血劍.雕像",
+      "portrait": "/verified-guide/49efdfafaf1d43ea.png",
+      "equipmentImages": []
+    }
+  ],
+  "42": [
+    {
+      "name": "四聖 • 青龍",
+      "row": "12",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "生命套/急速套\n加費套",
+      "portrait": "/verified-guide/4d291d3e3c5681e1.png",
+      "equipmentImages": []
+    },
+    {
+      "name": "四聖 • 青龍                        (專武)",
+      "row": "13",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "生命套/急速套\n加費套",
+      "portrait": "/verified-guide/4d291d3e3c5681e1.png",
+      "equipmentImages": []
+    }
+  ],
+  "44": [
+    {
+      "name": "嗜血魔劍 • 提爾鋒        ",
+      "row": "14",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "暴擊套/攻速套\n低語+鷹像/",
+      "portrait": "/verified-guide/907505b3231839ce.png",
+      "equipmentImages": []
+    },
+    {
+      "name": "嗜血魔劍 • 提爾鋒         (專武)",
+      "row": "15",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "暴傷套/攻速套\n低語+鷹像/水瓶(專武)",
+      "portrait": "/verified-guide/907505b3231839ce.png",
+      "equipmentImages": []
+    }
+  ],
+  "46": [
+    {
+      "name": "迷宮魔王 • 米諾陶",
+      "row": "16",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "攻擊套/攻速套\n低語+生存飾品",
+      "portrait": "/verified-guide/335358b3c0545b45.png",
+      "equipmentImages": []
+    }
+  ],
+  "47": [
+    {
+      "name": "屠龍勇士 • 齊格菲",
+      "row": "17",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "攻擊套/生命套\n憤怒套裝",
+      "portrait": "/verified-guide/21211ad74841811d.png",
+      "equipmentImages": []
+    }
+  ],
+  "48": [
+    {
+      "name": "戎裝公主 • 齊格菲",
+      "row": "18",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "急速套\n減費套",
+      "portrait": "/verified-guide/8d60c0cf6680eb28.png",
+      "equipmentImages": []
+    }
+  ],
+  "49": [
+    {
+      "name": "六臂蛇魔 • 瑪麗莉絲",
+      "row": "19",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "生命套\n低語+生存飾品",
+      "portrait": "/verified-guide/60aa685c2890f7f3.png",
+      "equipmentImages": []
+    }
+  ],
+  "50": [
+    {
+      "name": "女武神 • 布倫希爾德",
+      "row": "20",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "爆擊套\n低語+鷹像",
+      "portrait": "/verified-guide/bcdd60292df2df9b.png",
+      "equipmentImages": []
+    }
+  ],
+  "51": [
+    {
+      "name": "狂獵之王 • 貝奧武夫",
+      "row": "21",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "生命套\n低語+生存飾品",
+      "portrait": "/verified-guide/140da60668ba81b9.png",
+      "equipmentImages": []
+    }
+  ],
+  "52": [
+    {
+      "name": "英靈戰士 • 古娜",
+      "row": "22",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "",
+      "portrait": "/verified-guide/973f9026405731a3.png",
+      "equipmentImages": []
+    }
+  ],
+  "53": [
+    {
+      "name": "永恆之王 • 亞瑟",
+      "row": "23",
+      "sheet": "戰士",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "equipment": "/",
+      "portrait": "/verified-guide/0f36c4efb8aa14c6.png",
+      "equipmentImages": []
+    }
+  ],
+  "54": [
+    {
+      "name": "智慧女神 • 雅典娜",
+      "row": "3",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "生命套/急速套\n提豐+龜殼",
+      "portrait": "/verified-guide/0e6d31df8253404c.png",
+      "equipmentImages": []
+    }
+  ],
+  "55": [
+    {
+      "name": "盜火之神 • 普羅米修士",
+      "row": "4",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "(紅1)急速套+減費套\n(滿星)真理.生命",
+      "portrait": "/verified-guide/84893bbe1d5a8947.png",
+      "equipmentImages": []
+    }
+  ],
+  "56": [
+    {
+      "name": "大地之母 • 蓋亞",
+      "row": "5",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "急速套/減費套",
+      "portrait": "/verified-guide/eb2afa02d7bd9361.png",
+      "equipmentImages": []
+    }
+  ],
+  "57": [
+    {
+      "name": "聖杯騎士 • 加拉哈德",
+      "row": "6",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "急速套/減費套",
+      "portrait": "/verified-guide/f6be66aa65eb50f0.png",
+      "equipmentImages": []
+    }
+  ],
+  "58": [
+    {
+      "name": "凱旋皇女 • 凱撤",
+      "row": "7",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "物防套\n減費套 真理套",
+      "portrait": "/verified-guide/e6c5393fa3372e1f.png",
+      "equipmentImages": []
+    }
+  ],
+  "59": [
+    {
+      "name": "四聖 • 玄武",
+      "row": "8",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "生命套(大劍)/                格擋套(格擋錘)\n減費套",
+      "portrait": "/verified-guide/b57c49f3662277d4.png",
+      "equipmentImages": []
+    }
+  ],
+  "60": [
+    {
+      "name": "七紗舞孃 • 莎樂美",
+      "row": "9",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "生命套+短刀+聖樹  格檔套+短刀+聖樹",
+      "portrait": "/verified-guide/85cd069484389c43.png",
+      "equipmentImages": []
+    }
+  ],
+  "61": [
+    {
+      "name": "英魂統領 • 海德輪",
+      "row": "10",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "降費/真理+生命套",
+      "portrait": "/verified-guide/2d33630994197142.png",
+      "equipmentImages": []
+    }
+  ],
+  "62": [
+    {
+      "name": "鍛火龍姬 • 杜瓦林",
+      "row": "11",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "生命套\n減費套",
+      "portrait": "/verified-guide/db05c23d7743e997.png",
+      "equipmentImages": []
+    }
+  ],
+  "63": [
+    {
+      "name": "鐵血統帥 • 龐培",
+      "row": "12",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "生命套+加費套\nor\n生命套+咒法+龜殼",
+      "portrait": "/verified-guide/e8a8b6a1874b8455.png",
+      "equipmentImages": []
+    }
+  ],
+  "64": [
+    {
+      "name": "墮落女武神 • 赫爾維爾",
+      "row": "13",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "抗暴套\n雙防套/加費套",
+      "portrait": "/verified-guide/49d27ed97627e707.png",
+      "equipmentImages": []
+    }
+  ],
+  "65": [
+    {
+      "name": "仲夏夜之夢 • 奧伯隆妮",
+      "row": "14",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "生命套\n君炎劍+龜殼",
+      "portrait": "/verified-guide/8fc006da2f02d486.png",
+      "equipmentImages": []
+    }
+  ],
+  "66": [
+    {
+      "name": "冥界判官 • 阿努比斯",
+      "row": "15",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "生命套\n君炎劍+龜殼",
+      "portrait": "/verified-guide/824585f4eb1918b5.png",
+      "equipmentImages": []
+    }
+  ],
+  "67": [
+    {
+      "name": "野獸之王 • 海爾曼",
+      "row": "16",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "急速套+減費套\nor\n生命套+咒法+龜殼",
+      "portrait": "/verified-guide/a84226f7c609333f.png",
+      "equipmentImages": []
+    }
+  ],
+  "68": [
+    {
+      "name": "荒野暴徒 • 歐律提翁",
+      "row": "17",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "生命套\n真理套",
+      "portrait": "/verified-guide/f3fdc368b29022d2.png",
+      "equipmentImages": []
+    }
+  ],
+  "69": [
+    {
+      "name": "古樹守衛 • 特拉希爾",
+      "row": "18",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "生命套\n君炎劍+龜殼",
+      "portrait": "/verified-guide/321a6a85dd454e2e.png",
+      "equipmentImages": []
+    }
+  ],
+  "70": [
+    {
+      "name": "遠古魔像 • 戈輪",
+      "row": "19",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "生命套\n減費套",
+      "portrait": "/verified-guide/cb71d801ff5ef81c.png",
+      "equipmentImages": []
+    }
+  ],
+  "71": [
+    {
+      "name": "史萊姆王 • 咕咚",
+      "row": "20",
+      "sheet": "坦克",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "equipment": "生命套\n加費套",
+      "portrait": "/verified-guide/1f854576717db6e0.png",
+      "equipmentImages": []
+    }
+  ],
+  "72": [
+    {
+      "name": "眾神之王 • 宙斯",
+      "row": "3",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "急速套\n減費套/低語.雕像",
+      "portrait": "/verified-guide/b6d7281189b8db06.png",
+      "equipmentImages": []
+    }
+  ],
+  "73": [
+    {
+      "name": "詭計之神 • 洛基",
+      "row": "4",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/1ea2fc4575fea9df.png",
+      "equipmentImages": []
+    }
+  ],
+  "74": [
+    {
+      "name": "海神 • 波賽頓",
+      "row": "5",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "爆擊套/爆傷套\n低語+龍血",
+      "portrait": "/verified-guide/45f0fb43d96c2f1e.png",
+      "equipmentImages": []
+    }
+  ],
+  "75": [
+    {
+      "name": "紡命蛛母 • 阿拉克涅",
+      "row": "6",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "急速套\n吸血劍/低語.雕像",
+      "portrait": "/verified-guide/d4b69be4aa6fd5a2.png",
+      "equipmentImages": []
+    }
+  ],
+  "76": [
+    {
+      "name": "絕代妖狐 • 玉藻前",
+      "row": "7",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "暴傷/低語/雕像",
+      "portrait": "/verified-guide/02226f5f1eb51cdb.png",
+      "equipmentImages": []
+    }
+  ],
+  "77": [
+    {
+      "name": "青銅神姬 • 塔蘿絲",
+      "row": "8",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "攻擊套/爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/51d6a834e7ed2e86.png",
+      "equipmentImages": []
+    }
+  ],
+  "78": [
+    {
+      "name": "北境女王 • 葉卡捷琳娜",
+      "row": "9",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "急速/低語/雕像",
+      "portrait": "/verified-guide/7ed3175a8f90dfa9.png",
+      "equipmentImages": []
+    }
+  ],
+  "79": [
+    {
+      "name": "大天使 • 加百列",
+      "row": "10",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "攻擊套/爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/61748e5e07dc8384.png",
+      "equipmentImages": []
+    }
+  ],
+  "80": [
+    {
+      "name": "鐵腕執政官 • 克拉蘇",
+      "row": "11",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "急速套\n低語+鷹像",
+      "portrait": "/verified-guide/ec34a49813cd8265.png",
+      "equipmentImages": []
+    }
+  ],
+  "81": [
+    {
+      "name": "四聖 • 朱雀",
+      "row": "12",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "攻擊套/爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/cfee2b989530b0d6.png",
+      "equipmentImages": []
+    }
+  ],
+  "82": [
+    {
+      "name": "半神巫妖 • 古爾薇格",
+      "row": "13",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "急速套\n減費套",
+      "portrait": "/verified-guide/cd544cac4a91b527.png",
+      "equipmentImages": []
+    }
+  ],
+  "83": [
+    {
+      "name": "惡魔支配者 • 浮士德",
+      "row": "14",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "攻速套+低語+楓葉",
+      "portrait": "/verified-guide/5880f0e5e721a8a8.png",
+      "equipmentImages": []
+    },
+    {
+      "name": "惡魔支配者 • 浮士德         (專武)",
+      "row": "15",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "攻速套+低語+楓葉",
+      "portrait": "/verified-guide/5880f0e5e721a8a8.png",
+      "equipmentImages": []
+    }
+  ],
+  "85": [
+    {
+      "name": "四季鹿靈 • 娜娜莉",
+      "row": "16",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "攻擊套+低語+鷹像\nor\n急速套+減費套",
+      "portrait": "/verified-guide/6d85d8c4403c5821.png",
+      "equipmentImages": []
+    }
+  ],
+  "86": [
+    {
+      "name": "埃及豔后 • 克里奧佩特拉",
+      "row": "17",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "急速套\n減費套",
+      "portrait": "/verified-guide/35310f229e1a2a3a.png",
+      "equipmentImages": []
+    }
+  ],
+  "87": [
+    {
+      "name": "烈焰魔女 • 梅琳娜",
+      "row": "18",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "攻擊套/爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/87151f6af23a03ac.png",
+      "equipmentImages": []
+    }
+  ],
+  "88": [
+    {
+      "name": "暗影元素 • 泰爾佩瑞恩",
+      "row": "19",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "攻擊套/爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/c8435211d5474608.png",
+      "equipmentImages": []
+    }
+  ],
+  "89": [
+    {
+      "name": "地御三頭犬 • 刻爾柏洛斯",
+      "row": "20",
+      "sheet": "法師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "equipment": "攻擊套/爆傷套\n低語+鷹像",
+      "portrait": "/verified-guide/96eb734da621046c.png",
+      "equipmentImages": []
+    }
+  ],
+  "90": [
+    {
+      "name": "愛神 • 維納斯",
+      "row": "3",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "生命套/急速套\n減費套",
+      "portrait": "/verified-guide/e839a1daefbd353f.png",
+      "equipmentImages": []
+    }
+  ],
+  "91": [
+    {
+      "name": "睡神 • 修普諾斯",
+      "row": "4",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "急速套\n減費套",
+      "portrait": "/verified-guide/bde3e397a2056ea4.png",
+      "equipmentImages": []
+    }
+  ],
+  "92": [
+    {
+      "name": "死亡女神 • 海拉",
+      "row": "5",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "急速套\n減費套",
+      "portrait": "/verified-guide/eb3def06bc450943.png",
+      "equipmentImages": []
+    }
+  ],
+  "93": [
+    {
+      "name": "絕密女學生 • 穗香",
+      "row": "6",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "急速套\n減費套",
+      "portrait": "/verified-guide/572eceefaaa9509a.png",
+      "equipmentImages": []
+    }
+  ],
+  "94": [
+    {
+      "name": "羽蛇祭司 • 魁劄爾",
+      "row": "7",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "急速套\n減費套",
+      "portrait": "/verified-guide/952f95588f2e9c85.png",
+      "equipmentImages": []
+    }
+  ],
+  "95": [
+    {
+      "name": "示巴女王 • 碧綺絲",
+      "row": "8",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "急速套\n減費套                              暴擊夠其實不用穿暴擊裝",
+      "portrait": "/verified-guide/ec0660f0ae92e7c5.png",
+      "equipmentImages": []
+    }
+  ],
+  "96": [
+    {
+      "name": "護戒聖女 • 絲碧莫",
+      "row": "9",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "攻速套\n減費套",
+      "portrait": "/verified-guide/1d6a4bad29879214.png",
+      "equipmentImages": []
+    }
+  ],
+  "97": [
+    {
+      "name": "繁星魔女 • 莫甘娜",
+      "row": "10",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "急速套\n減費套",
+      "portrait": "/verified-guide/cd78d7634efaa488.png",
+      "equipmentImages": []
+    }
+  ],
+  "98": [
+    {
+      "name": "湖中仙女 • 薇薇安",
+      "row": "11",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "攻擊套\n斬艦者+龍血",
+      "portrait": "/verified-guide/2d727b882da5e32a.png",
+      "equipmentImages": []
+    }
+  ],
+  "99": [
+    {
+      "name": "奧法領主 • 阿塔妮絲",
+      "row": "12",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "急速套\n減費套",
+      "portrait": "/verified-guide/950040dfea856aba.png",
+      "equipmentImages": []
+    }
+  ],
+  "100": [
+    {
+      "name": "祈願燈神 • 山魯佐德",
+      "row": "13",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "生命套/急速套\n減費套",
+      "portrait": "/verified-guide/59f47d73d20fdab0.png",
+      "equipmentImages": []
+    }
+  ],
+  "101": [
+    {
+      "name": "英雄導師 • 喀戎",
+      "row": "14",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "生命套\n加費套",
+      "portrait": "/verified-guide/6297db323c38ad89.png",
+      "equipmentImages": []
+    }
+  ],
+  "102": [
+    {
+      "name": "哥布林擂鼓手",
+      "row": "15",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "攻速套/急速套\n減費套",
+      "portrait": "/verified-guide/e7868394e3af6b8e.png",
+      "equipmentImages": []
+    }
+  ],
+  "103": [
+    {
+      "name": "聖劍主教 • 奧菲利亞",
+      "row": "16",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "攻擊套/急速套\n減費套",
+      "portrait": "/verified-guide/07cb3d0a31faa71f.png",
+      "equipmentImages": []
+    }
+  ],
+  "104": [
+    {
+      "name": "鐵胃暴君 • 卡利古拉",
+      "row": "17",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "生命套/急速套\n減費套",
+      "portrait": "/verified-guide/0a253a9057352fbc.png",
+      "equipmentImages": []
+    }
+  ],
+  "105": [
+    {
+      "name": "遊弋歌姬 • 塞任",
+      "row": "18",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "生命套/急速套\n減費套",
+      "portrait": "/verified-guide/37cb056600d7a719.png",
+      "equipmentImages": []
+    }
+  ],
+  "106": [
+    {
+      "name": "妖精仙后 • 提坦妮婭",
+      "row": "19",
+      "sheet": "牧師",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "equipment": "生命套/急速套\n減費套",
+      "portrait": "/verified-guide/bf0950fc8d267f5b.png",
+      "equipmentImages": []
+    }
+  ]
+}
