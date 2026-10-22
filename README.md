@@ -34,3 +34,7 @@ Weekly updater: use authenticated GitHub tools to read current main news.json in
 ## Appearance identity audit (2026-10-03)
 
 `data/appearances.json` maps all 101 character IDs to source-attributed appearance records. Reviewed 243 Taiwan official notices; 52 official character introductions and 74 alternate/new appearance records across 77 characters. Original spreadsheet portraits remain the baseline, not a claim of the newest base model. Unresolved skins remain explicitly unknown. Official images are hosted on tw-media.game-beans.com, shown uncropped with original-source links and open-image links. Verified captions and inspected every collected image; no roster ownership inferred from costume availability. Official name 霜星獵手・俄里翁 supersedes spreadsheet title 雙星獵手 while retaining it as a search alias.
+
+## Equipment guide (2026-10-22)
+
+The equipment tab includes seven roster-aware core profiles, searchable equipment fields for all characters (including separate specialist variants), set/stat selection and an upgrade sequence. Character equipment fields retain original guide attribution and are not presented as newly revalidated ratings. Tactical advice is labelled as suggestions; unverified Taiwan numerical thresholds and cross-region item names are not asserted. It reads the existing roster and never writes or resets ownership storage. Mobile navigation uses three columns for six tabs.
