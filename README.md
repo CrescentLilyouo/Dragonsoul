@@ -38,3 +38,12 @@ Weekly updater: use authenticated GitHub tools to read current main news.json in
 ## Equipment guide (2026-10-22)
 
 The equipment tab includes seven roster-aware core profiles, searchable equipment fields for all characters (including separate specialist variants), set/stat selection and an upgrade sequence. Character equipment fields retain original guide attribution and are not presented as newly revalidated ratings. Tactical advice is labelled as suggestions; unverified Taiwan numerical thresholds and cross-region item names are not asserted. It reads the existing roster and never writes or resets ownership storage. Mobile navigation uses three columns for six tabs.
+
+
+## 2026-10-22 user screenshot / equipment update
+
+- User IMG_4270–4278: 56 bag tiles with exact icon sprite/counts; 79 character cards, 49 mapped and 30 explicitly unresolved. Bag excludes equipped items. `data/snapshot-review-20261022.json` retains provenance and before/after stars; existing notes preserved.
+- Separate same-source units: IDs107 Drake,108 蠻力神牛 and109 蛇髮女妖; IDs46 迷宮魔王 and28 萬蛇之母 stay stable. No shared star values. New portraits are actual screenshot cutouts.
+- `components/snapshot-plan.tsx`: PVE/PVP six-person recommendations with Arcane dragon caveat, six-slot equipment pictures, finite bag allocations, unknown slots retained. One complete star book/accessory pair is reassigned between modes, never double counted. Named gear from matching guide pictures is not proof of current TW effects.
+- Current Pages storage remains `dragon-roster-v4`. Automatically merge only verified rows whose owned/star values match the previous seed; preserve browser changes and notes. A visible apply-snapshot action can explicitly apply49 verified rows while preserving notes. No storage-key reset.
+- Checked TypeScript, Pages build, portrait paths, stable unique IDs, unchanged notes and per-mode inventory counts. Mobile CSS uses3-wide squad cards,2-wide inventory and one loadout card per row. Browser visual verification was unavailable.

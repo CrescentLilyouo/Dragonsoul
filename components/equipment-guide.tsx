@@ -1,9 +1,10 @@
 'use client';
 import {useState} from 'react';
+import SnapshotPlan from '@/components/snapshot-plan';
 import characters from '@/data/characters.json';
 
 type Roster=Record<string,{owned:boolean,star:string,note:string}>;
-const sections=['主力配裝','全角色查詢','套裝與詞條','養成順序'];
+const sections=['我的圖片配裝','主力配裝','全角色查詢','套裝與詞條','養成順序'];
 const profiles=[
  {id:'18',title:'火槍｜先集中主輸出裝',set:'原表：急速套＋低語／鷹像',stats:'建議先看技能急速與有效輸出詞條；暴擊不足時先補穩定性，再比較暴傷。',pve:'先讓奧義按時轉好、減費後能施放；把最佳輸出裝集中給火槍，再用戰報比較單次傷害與總傷害。',pvp:'與冰坦同列，確認援護對象；若開場就倒，先調站位與保護，不盲目全洗傷害。',stop:'急速不等於攻速；減冷卻也不會自動補回奧義點。'},
  {id:'57',title:'加拉哈德｜循環與生存一起看',set:'原表：急速套／減費套',stats:'建議先滿足生存，再補技能急速；格擋與雙防依實際承傷測試。',pve:'隊友消耗喚醒能帶動回血與冰凍；坦克的裝備要配合全隊技能頻率，不能只看單人面板。',pvp:'援護會替隊友承傷；被集火時先以生命與生存詞條過渡，再追循環。',stop:'不能直接套用瑪莉的生命輸出配置；兩人的技能收益不同。'},
@@ -23,11 +24,12 @@ const sets=[
  ['武器與飾品','按角色機制補輸出或循環','低語、鷹像等原表俗稱對應的道具效果','武器飾品與防具分開選；有雙件效果時兩件一起核對。']
 ];
 export default function EquipmentGuide({roster,imagePath}:{roster:Roster,imagePath:(p:string)=>string}){
- const [section,setSection]=useState('主力配裝'),[query,setQuery]=useState(''),[ownedOnly,setOwnedOnly]=useState(true),[job,setJob]=useState('全部');
+ const [section,setSection]=useState('我的圖片配裝'),[query,setQuery]=useState(''),[ownedOnly,setOwnedOnly]=useState(true),[job,setJob]=useState('全部');
  const list=characters.filter(c=>(!ownedOnly||roster[c.id]?.owned)&&(job==='全部'||c.class===job)&&(c.name+c.alias+c.variants.map(v=>v.equipment).join(' ')).toLowerCase().includes(query.toLowerCase()));
  return <div className="equipment-guide"><div className="page-heading"><div><p className="eyebrow">EQUIPMENT WORKSHOP</p><h1>裝備攻略</h1><p>先解決啟動與生存，再把材料集中到主要輸出。</p></div><span className="pill">整理 2026/10/22</span></div>
- <div className="notice">原表配裝與角色機制整理；未讀取你的裝備背包。持有星級沿用既有紀錄，詞條優先順序為測試建議。</div>
+ <div className="notice">已讀取10/22角色與裝備背包；先看「我的圖片配裝」。其餘分頁保留原表方向，未核實的台服裝備數值不當成定論。</div>
  <div className="equipment-tabs" role="group" aria-label="裝備攻略分類">{sections.map(s=><button key={s} aria-pressed={section===s} onClick={()=>setSection(s)}>{s}</button>)}</div>
+ {section==='我的圖片配裝'&&<SnapshotPlan roster={roster} imagePath={imagePath}/>}
  {section==='主力配裝'&&<><div className="equipment-grid">{profiles.map(p=>{const c=characters.find(x=>x.id===p.id)!;return <article className="text-panel equipment-profile" key={p.id}><div className="equipment-face"><img src={imagePath(c.portrait)} alt={c.name} loading="lazy"/><div><span className="eyebrow">{c.factions.join('／')} · {c.class}</span><h2>{p.title}</h2><span className="caption">{roster[p.id]?.owned?'已持有 · '+roster[p.id].star:'未持有'} · {c.name}</span></div></div><p className="equipment-set">{p.set}</p><dl><dt>詞條與選擇</dt><dd>{p.stats}</dd><dt>PVE</dt><dd>{p.pve}</dd><dt>PVP</dt><dd>{p.pvp}</dd><dt>注意</dt><dd>{p.stop}</dd></dl></article>})}</div><p className="caption">其餘角色請切換「全角色查詢」，保留原表不同專武／神格路線的配裝，不合併為單一答案。</p></>}
  {section==='全角色查詢'&&<><div className="equipment-controls"><input aria-label="搜尋角色或裝備" value={query} onChange={e=>setQuery(e.target.value)} placeholder="搜尋角色、俗稱、配裝…"/><select aria-label="職業" value={job} onChange={e=>setJob(e.target.value)}>{['全部',...new Set(characters.map(c=>c.class))].map(j=><option key={j}>{j}</option>)}</select><label><input type="checkbox" checked={ownedOnly} onChange={e=>setOwnedOnly(e.target.checked)}/>只看已持有</label></div><p className="caption">共 {list.length} 位。以下為網站現存原表配裝欄，不代表已全面核對為10/22新版。</p><div className="equipment-grid">{list.map(c=><article key={c.id} className="text-panel"><div className="equipment-face"><img src={imagePath(c.portrait)} alt={c.name} loading="lazy"/><div><h3>{c.name}</h3><p>{c.class} · {c.factions.join('／')}</p><span className="caption">{roster[c.id]?.owned?roster[c.id].star:'未持有'}</span></div></div>{c.variants.map((v,i)=><div className="equipment-variant" key={i}><span className="pill">{v.specialist?'專武／特殊路線':'原表路線'} · {v.tier||'未評'}</span><p><b>配裝：</b>{v.equipment||'原表未填，待核對'}</p><p className="caption">養成參考：{v.requirement||'未填'}</p></div>)}</article>)}</div>{!list.length&&<p className="empty">沒有符合條件的角色，試著取消只看已持有。</p>}</>}
  {section==='套裝與詞條'&&<><section className="text-panel"><span className="pill">10/22讀取原表「配裝小學堂」</span><h2>原作者怎麼挑輸出裝</h2><p>武器以低語為常用方向；低語不足時，法系輸出可比較法杖。飾品先分傷害來源：奧義主軸看鷹像，普攻及其他技能主軸看楓葉。</p><p>防具先連同魔物提供的暴擊一起看，再決定補暴擊，或轉攻擊／暴傷。作者也指出PVP需要另調，不是一套通吃。原表的暴擊數值與百分比換算未獨立驗證，這裡不作固定門檻。</p></section><section className="text-panel"><h2>先看角色，再看套裝</h2><p>技能說明看傷害／護盾／治療吃哪種屬性，再決定裝備。套裝名稱相近、圖示相似都不能當成同一效果。原表的「急速套、生命套、加費套」是功能簡稱。</p><p>技能急速解決冷卻，減費配置解決奧義能耗，攻速影響普攻節奏；三者分開檢查。主角的神器、龍語與幻靈六件裝備也要分開規劃。</p></section><div className="equipment-table-wrap"><table className="equipment-table"><thead><tr><th>方向</th><th>先考慮誰</th><th>看什麼</th><th>使用提醒</th></tr></thead><tbody>{sets.map(r=><tr key={r[0]}>{r.map((t,i)=><td key={i}>{t}</td>)}</tr>)}</tbody></table></div><section className="text-panel"><h2>「套裝」不一定要六件全相同</h2><p>先確認道具標示的啟用件數，再搭配武器與飾品的功能。不要為了湊外觀相同，拆掉角色需要的減費或其他重要效果。不同版本的名稱、件數與數值一律以台服道具說明為準。</p><h3>遇到攻略意見不同</h3><p>固定同一對手與站位，比較技能施放次數、首次奧義時間、死亡時間及整隊傷害；每次只換一組裝備。PVP另看對手抗暴、控制與爆發，不只看戰力是否上升。</p></section></>}

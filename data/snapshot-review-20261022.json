@@ -1,0 +1,801 @@
+{
+  "checkedAt": "2026-10-22",
+  "slots": [
+    {
+      "source": "IMG_4272",
+      "position": "上排1",
+      "id": "36",
+      "star": "紅5",
+      "status": "已對應",
+      "index": 0
+    },
+    {
+      "source": "IMG_4272",
+      "position": "上排2",
+      "id": "108",
+      "star": "紅5",
+      "status": "已對應",
+      "index": 1
+    },
+    {
+      "source": "IMG_4272",
+      "position": "上排3",
+      "id": "18",
+      "star": "紅1",
+      "status": "已對應",
+      "index": 2
+    },
+    {
+      "source": "IMG_4272",
+      "position": "上排4",
+      "id": "57",
+      "star": "紅3",
+      "status": "已對應",
+      "index": 3
+    },
+    {
+      "source": "IMG_4272",
+      "position": "上排5",
+      "id": "9",
+      "star": "紅5",
+      "status": "已對應",
+      "index": 4
+    },
+    {
+      "source": "IMG_4272",
+      "position": "上排6",
+      "id": "52",
+      "star": "紅3",
+      "status": "已對應",
+      "index": 5
+    },
+    {
+      "source": "IMG_4272",
+      "position": "下排1",
+      "id": "65",
+      "star": "紅5",
+      "status": "已對應",
+      "index": 6
+    },
+    {
+      "source": "IMG_4272",
+      "position": "下排2",
+      "id": "51",
+      "star": "紅5",
+      "status": "已對應",
+      "index": 7
+    },
+    {
+      "source": "IMG_4272",
+      "position": "下排3",
+      "id": "28",
+      "star": "紅1",
+      "status": "已對應",
+      "index": 8
+    },
+    {
+      "source": "IMG_4272",
+      "position": "下排4",
+      "id": "93",
+      "star": "紅1",
+      "status": "已對應",
+      "index": 9
+    },
+    {
+      "source": "IMG_4272",
+      "position": "下排5",
+      "id": "67",
+      "star": "紫3",
+      "status": "已對應",
+      "index": 10
+    },
+    {
+      "source": "IMG_4272",
+      "position": "下排6",
+      "id": "2",
+      "star": "紅1",
+      "status": "已對應",
+      "index": 11
+    },
+    {
+      "source": "IMG_4273",
+      "position": "上排1",
+      "id": "99",
+      "star": "紅1",
+      "status": "已對應",
+      "index": 12
+    },
+    {
+      "source": "IMG_4273",
+      "position": "上排2",
+      "id": "3",
+      "star": "紫5",
+      "status": "已對應",
+      "index": 13
+    },
+    {
+      "source": "IMG_4273",
+      "position": "上排3",
+      "id": "91",
+      "star": "紫3",
+      "status": "已對應",
+      "index": 14
+    },
+    {
+      "source": "IMG_4273",
+      "position": "上排4",
+      "id": "86",
+      "star": "紅1",
+      "status": "已對應",
+      "index": 15
+    },
+    {
+      "source": "IMG_4273",
+      "position": "上排5",
+      "id": "76",
+      "star": "紫5",
+      "status": "已對應",
+      "index": 16
+    },
+    {
+      "source": "IMG_4273",
+      "position": "上排6",
+      "id": null,
+      "star": "紫5",
+      "status": "未對應；不更新角色身分",
+      "index": 17
+    },
+    {
+      "source": "IMG_4273",
+      "position": "下排1",
+      "id": null,
+      "star": "紫5",
+      "status": "未對應；不更新角色身分",
+      "index": 18
+    },
+    {
+      "source": "IMG_4273",
+      "position": "下排2",
+      "id": "101",
+      "star": "紫5",
+      "status": "已對應",
+      "index": 19
+    },
+    {
+      "source": "IMG_4273",
+      "position": "下排3",
+      "id": null,
+      "star": "紅1",
+      "status": "未對應；不更新角色身分",
+      "index": 20
+    },
+    {
+      "source": "IMG_4273",
+      "position": "下排4",
+      "id": null,
+      "star": "紅1",
+      "status": "未對應；不更新角色身分",
+      "index": 21
+    },
+    {
+      "source": "IMG_4273",
+      "position": "下排5",
+      "id": "31",
+      "star": "紫3",
+      "status": "已對應",
+      "index": 22
+    },
+    {
+      "source": "IMG_4273",
+      "position": "下排6",
+      "id": "64",
+      "star": "紫3",
+      "status": "已對應",
+      "index": 23
+    },
+    {
+      "source": "IMG_4274",
+      "position": "上排1",
+      "id": "75",
+      "star": "紫3",
+      "status": "已對應",
+      "index": 24
+    },
+    {
+      "source": "IMG_4274",
+      "position": "上排2",
+      "id": "80",
+      "star": "紫1",
+      "status": "已對應",
+      "index": 25
+    },
+    {
+      "source": "IMG_4274",
+      "position": "上排3",
+      "id": "72",
+      "star": "紫1",
+      "status": "已對應",
+      "index": 26
+    },
+    {
+      "source": "IMG_4274",
+      "position": "上排4",
+      "id": "5",
+      "star": "紫1",
+      "status": "已對應",
+      "index": 27
+    },
+    {
+      "source": "IMG_4274",
+      "position": "上排5",
+      "id": null,
+      "star": "紫2",
+      "status": "未對應；不更新角色身分",
+      "index": 28
+    },
+    {
+      "source": "IMG_4274",
+      "position": "上排6",
+      "id": "4",
+      "star": "紫1",
+      "status": "已對應",
+      "index": 29
+    },
+    {
+      "source": "IMG_4274",
+      "position": "下排1",
+      "id": "15",
+      "star": "金5",
+      "status": "已對應",
+      "index": 30
+    },
+    {
+      "source": "IMG_4274",
+      "position": "下排2",
+      "id": null,
+      "star": "紫1",
+      "status": "未對應；不更新角色身分",
+      "index": 31
+    },
+    {
+      "source": "IMG_4274",
+      "position": "下排3",
+      "id": "109",
+      "star": "金6",
+      "status": "已對應",
+      "index": 32
+    },
+    {
+      "source": "IMG_4274",
+      "position": "下排4",
+      "id": null,
+      "star": "紫2",
+      "status": "未對應；不更新角色身分",
+      "index": 33
+    },
+    {
+      "source": "IMG_4274",
+      "position": "下排5",
+      "id": "90",
+      "star": "紫1",
+      "status": "已對應",
+      "index": 34
+    },
+    {
+      "source": "IMG_4274",
+      "position": "下排6",
+      "id": "30",
+      "star": "金6",
+      "status": "已對應",
+      "index": 35
+    },
+    {
+      "source": "IMG_4275",
+      "position": "上排1",
+      "id": "71",
+      "star": "紫1",
+      "status": "已對應",
+      "index": 36
+    },
+    {
+      "source": "IMG_4275",
+      "position": "上排2",
+      "id": "46",
+      "star": "金6",
+      "status": "已對應",
+      "index": 37
+    },
+    {
+      "source": "IMG_4275",
+      "position": "上排3",
+      "id": "12",
+      "star": "金6",
+      "status": "已對應",
+      "index": 38
+    },
+    {
+      "source": "IMG_4275",
+      "position": "上排4",
+      "id": "105",
+      "star": "紫1",
+      "status": "已對應",
+      "index": 39
+    },
+    {
+      "source": "IMG_4275",
+      "position": "上排5",
+      "id": "107",
+      "star": "金5",
+      "status": "已對應",
+      "index": 40
+    },
+    {
+      "source": "IMG_4275",
+      "position": "上排6",
+      "id": "48",
+      "star": "金6",
+      "status": "已對應",
+      "index": 41
+    },
+    {
+      "source": "IMG_4275",
+      "position": "下排1",
+      "id": "89",
+      "star": "紫1",
+      "status": "已對應",
+      "index": 42
+    },
+    {
+      "source": "IMG_4275",
+      "position": "下排2",
+      "id": "8",
+      "star": "金6",
+      "status": "已對應",
+      "index": 43
+    },
+    {
+      "source": "IMG_4275",
+      "position": "下排3",
+      "id": "69",
+      "star": "金6",
+      "status": "已對應",
+      "index": 44
+    },
+    {
+      "source": "IMG_4275",
+      "position": "下排4",
+      "id": "74",
+      "star": "金6",
+      "status": "已對應",
+      "index": 45
+    },
+    {
+      "source": "IMG_4275",
+      "position": "下排5",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 46
+    },
+    {
+      "source": "IMG_4275",
+      "position": "下排6",
+      "id": "85",
+      "star": "金6",
+      "status": "已對應",
+      "index": 47
+    },
+    {
+      "source": "IMG_4276",
+      "position": "上排1",
+      "id": "70",
+      "star": "金6",
+      "status": "已對應",
+      "index": 48
+    },
+    {
+      "source": "IMG_4276",
+      "position": "上排2",
+      "id": "88",
+      "star": "金6",
+      "status": "已對應",
+      "index": 49
+    },
+    {
+      "source": "IMG_4276",
+      "position": "上排3",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 50
+    },
+    {
+      "source": "IMG_4276",
+      "position": "上排4",
+      "id": "106",
+      "star": "金5",
+      "status": "已對應",
+      "index": 51
+    },
+    {
+      "source": "IMG_4276",
+      "position": "上排5",
+      "id": "62",
+      "star": "金5",
+      "status": "已對應",
+      "index": 52
+    },
+    {
+      "source": "IMG_4276",
+      "position": "上排6",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 53
+    },
+    {
+      "source": "IMG_4276",
+      "position": "下排1",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 54
+    },
+    {
+      "source": "IMG_4276",
+      "position": "下排2",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 55
+    },
+    {
+      "source": "IMG_4276",
+      "position": "下排3",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 56
+    },
+    {
+      "source": "IMG_4276",
+      "position": "下排4",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 57
+    },
+    {
+      "source": "IMG_4276",
+      "position": "下排5",
+      "id": "100",
+      "star": "金5",
+      "status": "已對應",
+      "index": 58
+    },
+    {
+      "source": "IMG_4276",
+      "position": "下排6",
+      "id": "79",
+      "star": "金5",
+      "status": "已對應",
+      "index": 59
+    },
+    {
+      "source": "IMG_4277",
+      "position": "上排1",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 60
+    },
+    {
+      "source": "IMG_4277",
+      "position": "上排2",
+      "id": "66",
+      "star": "金6",
+      "status": "已對應",
+      "index": 61
+    },
+    {
+      "source": "IMG_4277",
+      "position": "上排3",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 62
+    },
+    {
+      "source": "IMG_4277",
+      "position": "上排4",
+      "id": "0",
+      "star": "金6",
+      "status": "已對應",
+      "index": 63
+    },
+    {
+      "source": "IMG_4277",
+      "position": "上排5",
+      "id": "14",
+      "star": "金6",
+      "status": "已對應",
+      "index": 64
+    },
+    {
+      "source": "IMG_4277",
+      "position": "上排6",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 65
+    },
+    {
+      "source": "IMG_4277",
+      "position": "下排1",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 66
+    },
+    {
+      "source": "IMG_4277",
+      "position": "下排2",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 67
+    },
+    {
+      "source": "IMG_4277",
+      "position": "下排3",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 68
+    },
+    {
+      "source": "IMG_4277",
+      "position": "下排4",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 69
+    },
+    {
+      "source": "IMG_4277",
+      "position": "下排5",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 70
+    },
+    {
+      "source": "IMG_4277",
+      "position": "下排6",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 71
+    },
+    {
+      "source": "IMG_4278",
+      "position": "上排1",
+      "id": null,
+      "star": "金6",
+      "status": "未對應；不更新角色身分",
+      "index": 72
+    },
+    {
+      "source": "IMG_4278",
+      "position": "上排2",
+      "id": null,
+      "star": "金2",
+      "status": "未對應；不更新角色身分",
+      "index": 73
+    },
+    {
+      "source": "IMG_4278",
+      "position": "上排3",
+      "id": null,
+      "star": "金2",
+      "status": "未對應；不更新角色身分",
+      "index": 74
+    },
+    {
+      "source": "IMG_4278",
+      "position": "上排4",
+      "id": null,
+      "star": "金2",
+      "status": "未對應；不更新角色身分",
+      "index": 75
+    },
+    {
+      "source": "IMG_4278",
+      "position": "上排5",
+      "id": null,
+      "star": "金2",
+      "status": "未對應；不更新角色身分",
+      "index": 76
+    },
+    {
+      "source": "IMG_4278",
+      "position": "上排6",
+      "id": null,
+      "star": "金2",
+      "status": "未對應；不更新角色身分",
+      "index": 77
+    },
+    {
+      "source": "IMG_4278",
+      "position": "下排1",
+      "id": null,
+      "star": "金2",
+      "status": "未對應；不更新角色身分",
+      "index": 78
+    }
+  ],
+  "changes": [
+    {
+      "id": "108",
+      "name": "蠻力神牛 • 米諾陶",
+      "before": "未持有",
+      "after": "紅5"
+    },
+    {
+      "id": "9",
+      "name": "魅夜之狩 • 芬里爾",
+      "before": "紅4",
+      "after": "紅5"
+    },
+    {
+      "id": "52",
+      "name": "英靈戰士 • 古娜",
+      "before": "紫5",
+      "after": "紅3"
+    },
+    {
+      "id": "51",
+      "name": "狂獵之王 • 貝奧武夫",
+      "before": "紫5",
+      "after": "紅5"
+    },
+    {
+      "id": "67",
+      "name": "野獸之王 • 海爾曼",
+      "before": "紫5",
+      "after": "紫3"
+    },
+    {
+      "id": "2",
+      "name": "永夜女王 • 莉莉絲",
+      "before": "紫1",
+      "after": "紅1"
+    },
+    {
+      "id": "99",
+      "name": "奧法領主 • 阿塔妮絲",
+      "before": "金6",
+      "after": "紅1"
+    },
+    {
+      "id": "91",
+      "name": "睡神 • 修普諾斯",
+      "before": "紫1",
+      "after": "紫3"
+    },
+    {
+      "id": "86",
+      "name": "埃及豔后 • 克里奧佩特拉",
+      "before": "金6",
+      "after": "紅1"
+    },
+    {
+      "id": "76",
+      "name": "絕代妖狐 • 玉藻前",
+      "before": "紫1",
+      "after": "紫5"
+    },
+    {
+      "id": "101",
+      "name": "英雄導師 • 喀戎",
+      "before": "紫1",
+      "after": "紫5"
+    },
+    {
+      "id": "31",
+      "name": "獵魔人 • 范海辛",
+      "before": "紫1",
+      "after": "紫3"
+    },
+    {
+      "id": "64",
+      "name": "墮落女武神 • 赫爾維爾",
+      "before": "紫1",
+      "after": "紫3"
+    },
+    {
+      "id": "75",
+      "name": "紡命蛛母 • 阿拉克涅",
+      "before": "未持有",
+      "after": "紫3"
+    },
+    {
+      "id": "80",
+      "name": "鐵腕執政官 • 克拉蘇",
+      "before": "未持有",
+      "after": "紫1"
+    },
+    {
+      "id": "109",
+      "name": "蛇髮女妖 • 美杜莎",
+      "before": "未持有",
+      "after": "金6"
+    },
+    {
+      "id": "90",
+      "name": "愛神 • 維納斯",
+      "before": "未持有",
+      "after": "紫1"
+    },
+    {
+      "id": "12",
+      "name": "四聖 • 白虎",
+      "before": "紫3",
+      "after": "金6"
+    },
+    {
+      "id": "107",
+      "name": "黑帆船長 • 德雷克",
+      "before": "未持有",
+      "after": "金5"
+    },
+    {
+      "id": "74",
+      "name": "海神 • 波賽頓",
+      "before": "金5",
+      "after": "金6"
+    },
+    {
+      "id": "62",
+      "name": "鍛火龍姬 • 杜瓦林",
+      "before": "金6",
+      "after": "金5"
+    },
+    {
+      "id": "100",
+      "name": "祈願燈神 • 山魯佐德",
+      "before": "未持有",
+      "after": "金5"
+    },
+    {
+      "id": "79",
+      "name": "大天使 • 加百列",
+      "before": "未持有",
+      "after": "金5"
+    },
+    {
+      "id": "66",
+      "name": "冥界判官 • 阿努比斯",
+      "before": "金5",
+      "after": "金6"
+    },
+    {
+      "id": "0",
+      "name": "冥府之王 • 哈迪斯",
+      "before": "未持有",
+      "after": "金6"
+    },
+    {
+      "id": "14",
+      "name": "湖上騎士 • 蘭斯洛特",
+      "before": "未持有",
+      "after": "金6"
+    }
+  ],
+  "unresolvedCount": 30,
+  "sources": {
+    "newCharacter": "https://sod.game-beans.com/jx/sodNotice/20261020/8289.html",
+    "bull": "https://sod.game-beans.com/jx/sodNotice/20250827/7298.html",
+    "medusa": "https://sod.game-beans.com/jx/sodNotice/20250330/6793.html"
+  }
+}

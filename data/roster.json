@@ -3,73 +3,89 @@
     "owned": true,
     "star": "紅5",
     "note": "2026/10/03 重新核對 IMG_4219 上排第1位。外觀：海邊嬉戲。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4219",
-    "position": "上排第1位",
-    "appearance": "海邊嬉戲"
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "上排1",
+    "appearance": "海邊嬉戲",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "57": {
     "owned": true,
     "star": "紅3",
     "note": "2026/10/03 重新核對 IMG_4219 上排第2位。外觀：靈魂鼓手。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4219",
-    "position": "上排第2位",
-    "appearance": "靈魂鼓手"
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "上排4",
+    "appearance": "靈魂鼓手",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "18": {
     "owned": true,
     "star": "紅1",
     "note": "2026/10/03 重新核對 IMG_4219 上排第3位。外觀：少女名偵探。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4219",
-    "position": "上排第3位",
-    "appearance": "少女名偵探"
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "上排3",
+    "appearance": "少女名偵探",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "65": {
     "owned": true,
     "star": "紅5",
     "note": "2026/10/03 重新核對 IMG_4219 上排第4位。外觀：愛在星輝時。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4219",
-    "position": "上排第4位",
-    "appearance": "愛在星輝時"
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "下排1",
+    "appearance": "愛在星輝時",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "9": {
     "owned": true,
-    "star": "紅4",
+    "star": "紅5",
     "note": "2026/10/03 重新核對 IMG_4219 上排第5位。外觀：摸魚高手。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4219",
-    "position": "上排第5位",
-    "appearance": "摸魚高手"
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "上排5",
+    "appearance": "摸魚高手",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "93": {
     "owned": true,
     "star": "紅1",
     "note": "2026/10/03 重新核對 IMG_4219 上排第6位。外觀：沙灘城堡。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4219",
-    "position": "上排第6位",
-    "appearance": "沙灘城堡"
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "下排4",
+    "appearance": "沙灘城堡",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "72": {
     "owned": true,
     "star": "紫1",
     "note": "2026/10/03 重新核對 IMG_4219 下排第1位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4219",
-    "position": "下排第1位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4274",
+    "position": "上排3",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "91": {
     "owned": true,
-    "star": "紫1",
+    "star": "紫3",
     "note": "2026/10/03 重新核對 IMG_4219 下排第2位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4219",
-    "position": "下排第2位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4273",
+    "position": "上排3",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "87": {
     "owned": true,
@@ -78,124 +94,151 @@
     "reviewedAt": "2026-10-03",
     "screenshot": "IMG_4219",
     "position": "下排第3位",
-    "appearance": "超凡女俠"
+    "appearance": "超凡女俠",
+    "latestReview": "10/22截圖尚未完成身分對應，保留舊值待核對"
   },
   "51": {
     "owned": true,
-    "star": "紫5",
+    "star": "紅5",
     "note": "2026/10/03 重新核對 IMG_4219 下排第4位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4219",
-    "position": "下排第4位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "下排2",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "52": {
     "owned": true,
-    "star": "紫5",
+    "star": "紅3",
     "note": "2026/10/03 重新核對 IMG_4219 下排第5位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4219",
-    "position": "下排第5位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "上排6",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "15": {
     "owned": true,
     "star": "金5",
     "note": "2026/10/03 重新核對 IMG_4219 下排第6位。外觀：金獅鬧春。 星數已依放大截圖更正。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4219",
-    "position": "下排第6位",
-    "appearance": "金獅鬧春"
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4274",
+    "position": "下排1",
+    "appearance": "金獅鬧春",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "5": {
     "owned": true,
     "star": "紫1",
     "note": "2026/10/03 重新核對 IMG_4220 上排第1位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4220",
-    "position": "上排第1位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4274",
+    "position": "上排4",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "74": {
     "owned": true,
-    "star": "金5",
+    "star": "金6",
     "note": "2026/10/03 重新核對 IMG_4220 上排第2位。外觀：新版外觀。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4220",
-    "position": "上排第2位",
-    "appearance": "新版外觀"
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4275",
+    "position": "下排4",
+    "appearance": "新版外觀",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "64": {
     "owned": true,
-    "star": "紫1",
+    "star": "紫3",
     "note": "2026/10/03 重新核對 IMG_4220 上排第3位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4220",
-    "position": "上排第3位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4273",
+    "position": "下排6",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "28": {
     "owned": true,
     "star": "紅1",
     "note": "2026/10/03 重新核對 IMG_4220 上排第4位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4220",
-    "position": "上排第4位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "下排3",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "76": {
     "owned": true,
-    "star": "紫1",
+    "star": "紫5",
     "note": "2026/10/03 重新核對 IMG_4220 上排第5位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4220",
-    "position": "上排第5位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4273",
+    "position": "上排5",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "8": {
     "owned": true,
     "star": "金6",
     "note": "2026/10/03 重新核對 IMG_4220 上排第6位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4220",
-    "position": "上排第6位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4275",
+    "position": "下排2",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "105": {
     "owned": true,
     "star": "紫1",
     "note": "2026/10/03 重新核對 IMG_4220 下排第1位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4220",
-    "position": "下排第1位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4275",
+    "position": "上排4",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "3": {
     "owned": true,
     "star": "紫5",
     "note": "2026/10/03 重新核對 IMG_4220 下排第2位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4220",
-    "position": "下排第2位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4273",
+    "position": "上排2",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "67": {
     "owned": true,
-    "star": "紫5",
+    "star": "紫3",
     "note": "2026/10/03 重新核對 IMG_4220 下排第3位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4220",
-    "position": "下排第3位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "下排5",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "12": {
     "owned": true,
-    "star": "紫3",
+    "star": "金6",
     "note": "2026/10/03 重新核對 IMG_4220 下排第5位。 星數已依放大截圖更正。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4220",
-    "position": "下排第5位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4275",
+    "position": "上排3",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "104": {
     "owned": true,
@@ -204,7 +247,8 @@
     "reviewedAt": "2026-10-03",
     "screenshot": "IMG_4220",
     "position": "下排第6位",
-    "appearance": ""
+    "appearance": "",
+    "latestReview": "10/22截圖尚未完成身分對應，保留舊值待核對"
   },
   "29": {
     "owned": true,
@@ -213,52 +257,63 @@
     "reviewedAt": "2026-10-03",
     "screenshot": "IMG_4221",
     "position": "上排第1位",
-    "appearance": ""
+    "appearance": "",
+    "latestReview": "10/22截圖尚未完成身分對應，保留舊值待核對"
   },
   "4": {
     "owned": true,
     "star": "紫1",
     "note": "2026/10/03 重新核對 IMG_4221 上排第2位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4221",
-    "position": "上排第2位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4274",
+    "position": "上排6",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "2": {
     "owned": true,
-    "star": "紫1",
+    "star": "紅1",
     "note": "2026/10/03 重新核對 IMG_4221 上排第3位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4221",
-    "position": "上排第3位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "下排6",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "31": {
     "owned": true,
-    "star": "紫1",
+    "star": "紫3",
     "note": "2026/10/03 重新核對 IMG_4221 上排第5位。外觀：新版外觀。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4221",
-    "position": "上排第5位",
-    "appearance": "新版外觀"
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4273",
+    "position": "下排5",
+    "appearance": "新版外觀",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "71": {
     "owned": true,
     "star": "紫1",
     "note": "2026/10/03 重新核對 IMG_4221 上排第6位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4221",
-    "position": "上排第6位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4275",
+    "position": "上排1",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "89": {
     "owned": true,
     "star": "紫1",
     "note": "2026/10/03 重新核對 IMG_4221 下排第2位。 星數已依放大截圖更正。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4221",
-    "position": "下排第2位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4275",
+    "position": "下排1",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "49": {
     "owned": true,
@@ -267,97 +322,118 @@
     "reviewedAt": "2026-10-03",
     "screenshot": "IMG_4221",
     "position": "下排第3位",
-    "appearance": ""
+    "appearance": "",
+    "latestReview": "10/22截圖尚未完成身分對應，保留舊值待核對"
   },
   "101": {
     "owned": true,
-    "star": "紫1",
+    "star": "紫5",
     "note": "2026/10/03 重新核對 IMG_4221 下排第6位。外觀：新版外觀。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4221",
-    "position": "下排第6位",
-    "appearance": "新版外觀"
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4273",
+    "position": "下排2",
+    "appearance": "新版外觀",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "46": {
     "owned": true,
     "star": "金6",
     "note": "2026/10/03 重新核對 IMG_4222 上排第1位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4222",
-    "position": "上排第1位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4275",
+    "position": "上排2",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "30": {
     "owned": true,
     "star": "金6",
     "note": "2026/10/03 重新核對 IMG_4222 上排第2位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4222",
-    "position": "上排第2位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4274",
+    "position": "下排6",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "69": {
     "owned": true,
     "star": "金6",
     "note": "2026/10/03 重新核對 IMG_4222 上排第3位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4222",
-    "position": "上排第3位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4275",
+    "position": "下排3",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "48": {
     "owned": true,
     "star": "金6",
     "note": "2026/10/03 重新核對 IMG_4222 上排第4位。外觀：史詩版本。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4222",
-    "position": "上排第4位",
-    "appearance": "史詩版本"
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4275",
+    "position": "上排6",
+    "appearance": "史詩版本",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "85": {
     "owned": true,
     "star": "金6",
     "note": "2026/10/03 重新核對 IMG_4222 上排第5位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4222",
-    "position": "上排第5位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4275",
+    "position": "下排6",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "99": {
     "owned": true,
-    "star": "金6",
+    "star": "紅1",
     "note": "2026/10/03 重新核對 IMG_4222 上排第6位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4222",
-    "position": "上排第6位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4273",
+    "position": "上排1",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "88": {
     "owned": true,
     "star": "金6",
     "note": "2026/10/03 重新核對 IMG_4222 下排第1位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4222",
-    "position": "下排第1位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4276",
+    "position": "上排2",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "70": {
     "owned": true,
     "star": "金6",
     "note": "2026/10/03 重新核對 IMG_4222 下排第2位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4222",
-    "position": "下排第2位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4276",
+    "position": "上排1",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "86": {
     "owned": true,
-    "star": "金6",
+    "star": "紅1",
     "note": "2026/10/03 重新核對 IMG_4222 下排第3位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4222",
-    "position": "下排第3位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4273",
+    "position": "上排4",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "32": {
     "owned": true,
@@ -366,16 +442,19 @@
     "reviewedAt": "2026-10-03",
     "screenshot": "IMG_4222",
     "position": "下排第4位",
-    "appearance": ""
+    "appearance": "",
+    "latestReview": "10/22截圖尚未完成身分對應，保留舊值待核對"
   },
   "62": {
     "owned": true,
-    "star": "金6",
+    "star": "金5",
     "note": "2026/10/03 重新核對 IMG_4222 下排第6位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4222",
-    "position": "下排第6位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4276",
+    "position": "上排5",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "68": {
     "owned": true,
@@ -384,25 +463,30 @@
     "reviewedAt": "2026-10-03",
     "screenshot": "IMG_4223",
     "position": "上排第3位",
-    "appearance": ""
+    "appearance": "",
+    "latestReview": "10/22截圖尚未完成身分對應，保留舊值待核對"
   },
   "66": {
     "owned": true,
-    "star": "金5",
+    "star": "金6",
     "note": "2026/10/03 重新核對 IMG_4223 上排第5位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4223",
-    "position": "上排第5位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4277",
+    "position": "上排2",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "106": {
     "owned": true,
     "star": "金5",
     "note": "2026/10/03 重新核對 IMG_4223 上排第6位。",
-    "reviewedAt": "2026-10-03",
-    "screenshot": "IMG_4223",
-    "position": "上排第6位",
-    "appearance": ""
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4276",
+    "position": "上排4",
+    "appearance": "",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22"
   },
   "82": {
     "owned": true,
@@ -411,7 +495,8 @@
     "reviewedAt": "2026-10-03",
     "screenshot": "IMG_4223",
     "position": "下排第1位",
-    "appearance": ""
+    "appearance": "",
+    "latestReview": "10/22截圖尚未完成身分對應，保留舊值待核對"
   },
   "102": {
     "owned": true,
@@ -420,13 +505,18 @@
     "reviewedAt": "2026-10-03",
     "screenshot": "IMG_4224",
     "position": "上排第4位",
-    "appearance": ""
+    "appearance": "",
+    "latestReview": "10/22截圖尚未完成身分對應，保留舊值待核對"
   },
   "0": {
-    "owned": false,
-    "star": "待確認",
+    "owned": true,
+    "star": "金6",
     "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
-    "confirmed": true
+    "confirmed": true,
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4277",
+    "position": "上排4",
+    "snapshotDate": "2026-10-22"
   },
   "1": {
     "owned": false,
@@ -465,10 +555,14 @@
     "confirmed": true
   },
   "14": {
-    "owned": false,
-    "star": "待確認",
+    "owned": true,
+    "star": "金6",
     "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
-    "confirmed": true
+    "confirmed": true,
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4277",
+    "position": "上排5",
+    "snapshotDate": "2026-10-22"
   },
   "16": {
     "owned": false,
@@ -651,10 +745,14 @@
     "confirmed": true
   },
   "75": {
-    "owned": false,
-    "star": "待確認",
+    "owned": true,
+    "star": "紫3",
     "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
-    "confirmed": true
+    "confirmed": true,
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4274",
+    "position": "上排1",
+    "snapshotDate": "2026-10-22"
   },
   "77": {
     "owned": false,
@@ -669,16 +767,24 @@
     "confirmed": true
   },
   "79": {
-    "owned": false,
-    "star": "待確認",
+    "owned": true,
+    "star": "金5",
     "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
-    "confirmed": true
+    "confirmed": true,
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4276",
+    "position": "下排6",
+    "snapshotDate": "2026-10-22"
   },
   "80": {
-    "owned": false,
-    "star": "待確認",
+    "owned": true,
+    "star": "紫1",
     "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
-    "confirmed": true
+    "confirmed": true,
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4274",
+    "position": "上排2",
+    "snapshotDate": "2026-10-22"
   },
   "81": {
     "owned": false,
@@ -693,10 +799,14 @@
     "confirmed": true
   },
   "90": {
-    "owned": false,
-    "star": "待確認",
+    "owned": true,
+    "star": "紫1",
     "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
-    "confirmed": true
+    "confirmed": true,
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4274",
+    "position": "下排5",
+    "snapshotDate": "2026-10-22"
   },
   "92": {
     "owned": false,
@@ -735,15 +845,49 @@
     "confirmed": true
   },
   "100": {
-    "owned": false,
-    "star": "待確認",
+    "owned": true,
+    "star": "金5",
     "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
-    "confirmed": true
+    "confirmed": true,
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4276",
+    "position": "下排5",
+    "snapshotDate": "2026-10-22"
   },
   "103": {
     "owned": false,
     "star": "待確認",
     "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
     "confirmed": true
+  },
+  "108": {
+    "owned": true,
+    "star": "紅5",
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4272",
+    "position": "上排2",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22",
+    "note": ""
+  },
+  "109": {
+    "owned": true,
+    "star": "金6",
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4274",
+    "position": "下排3",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22",
+    "note": ""
+  },
+  "107": {
+    "owned": true,
+    "star": "金5",
+    "reviewedAt": "2026-10-22",
+    "screenshot": "IMG_4275",
+    "position": "上排5",
+    "confirmed": true,
+    "snapshotDate": "2026-10-22",
+    "note": ""
   }
 }

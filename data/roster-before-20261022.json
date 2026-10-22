@@ -1,0 +1,749 @@
+{
+  "36": {
+    "owned": true,
+    "star": "紅5",
+    "note": "2026/10/03 重新核對 IMG_4219 上排第1位。外觀：海邊嬉戲。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "上排第1位",
+    "appearance": "海邊嬉戲"
+  },
+  "57": {
+    "owned": true,
+    "star": "紅3",
+    "note": "2026/10/03 重新核對 IMG_4219 上排第2位。外觀：靈魂鼓手。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "上排第2位",
+    "appearance": "靈魂鼓手"
+  },
+  "18": {
+    "owned": true,
+    "star": "紅1",
+    "note": "2026/10/03 重新核對 IMG_4219 上排第3位。外觀：少女名偵探。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "上排第3位",
+    "appearance": "少女名偵探"
+  },
+  "65": {
+    "owned": true,
+    "star": "紅5",
+    "note": "2026/10/03 重新核對 IMG_4219 上排第4位。外觀：愛在星輝時。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "上排第4位",
+    "appearance": "愛在星輝時"
+  },
+  "9": {
+    "owned": true,
+    "star": "紅4",
+    "note": "2026/10/03 重新核對 IMG_4219 上排第5位。外觀：摸魚高手。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "上排第5位",
+    "appearance": "摸魚高手"
+  },
+  "93": {
+    "owned": true,
+    "star": "紅1",
+    "note": "2026/10/03 重新核對 IMG_4219 上排第6位。外觀：沙灘城堡。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "上排第6位",
+    "appearance": "沙灘城堡"
+  },
+  "72": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4219 下排第1位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "下排第1位",
+    "appearance": ""
+  },
+  "91": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4219 下排第2位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "下排第2位",
+    "appearance": ""
+  },
+  "87": {
+    "owned": true,
+    "star": "紫6",
+    "note": "2026/10/03 重新核對 IMG_4219 下排第3位。外觀：超凡女俠。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "下排第3位",
+    "appearance": "超凡女俠"
+  },
+  "51": {
+    "owned": true,
+    "star": "紫5",
+    "note": "2026/10/03 重新核對 IMG_4219 下排第4位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "下排第4位",
+    "appearance": ""
+  },
+  "52": {
+    "owned": true,
+    "star": "紫5",
+    "note": "2026/10/03 重新核對 IMG_4219 下排第5位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "下排第5位",
+    "appearance": ""
+  },
+  "15": {
+    "owned": true,
+    "star": "金5",
+    "note": "2026/10/03 重新核對 IMG_4219 下排第6位。外觀：金獅鬧春。 星數已依放大截圖更正。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4219",
+    "position": "下排第6位",
+    "appearance": "金獅鬧春"
+  },
+  "5": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4220 上排第1位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4220",
+    "position": "上排第1位",
+    "appearance": ""
+  },
+  "74": {
+    "owned": true,
+    "star": "金5",
+    "note": "2026/10/03 重新核對 IMG_4220 上排第2位。外觀：新版外觀。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4220",
+    "position": "上排第2位",
+    "appearance": "新版外觀"
+  },
+  "64": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4220 上排第3位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4220",
+    "position": "上排第3位",
+    "appearance": ""
+  },
+  "28": {
+    "owned": true,
+    "star": "紅1",
+    "note": "2026/10/03 重新核對 IMG_4220 上排第4位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4220",
+    "position": "上排第4位",
+    "appearance": ""
+  },
+  "76": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4220 上排第5位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4220",
+    "position": "上排第5位",
+    "appearance": ""
+  },
+  "8": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4220 上排第6位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4220",
+    "position": "上排第6位",
+    "appearance": ""
+  },
+  "105": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4220 下排第1位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4220",
+    "position": "下排第1位",
+    "appearance": ""
+  },
+  "3": {
+    "owned": true,
+    "star": "紫5",
+    "note": "2026/10/03 重新核對 IMG_4220 下排第2位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4220",
+    "position": "下排第2位",
+    "appearance": ""
+  },
+  "67": {
+    "owned": true,
+    "star": "紫5",
+    "note": "2026/10/03 重新核對 IMG_4220 下排第3位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4220",
+    "position": "下排第3位",
+    "appearance": ""
+  },
+  "12": {
+    "owned": true,
+    "star": "紫3",
+    "note": "2026/10/03 重新核對 IMG_4220 下排第5位。 星數已依放大截圖更正。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4220",
+    "position": "下排第5位",
+    "appearance": ""
+  },
+  "104": {
+    "owned": true,
+    "star": "紫3",
+    "note": "2026/10/03 重新核對 IMG_4220 下排第6位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4220",
+    "position": "下排第6位",
+    "appearance": ""
+  },
+  "29": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4221 上排第1位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4221",
+    "position": "上排第1位",
+    "appearance": ""
+  },
+  "4": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4221 上排第2位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4221",
+    "position": "上排第2位",
+    "appearance": ""
+  },
+  "2": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4221 上排第3位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4221",
+    "position": "上排第3位",
+    "appearance": ""
+  },
+  "31": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4221 上排第5位。外觀：新版外觀。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4221",
+    "position": "上排第5位",
+    "appearance": "新版外觀"
+  },
+  "71": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4221 上排第6位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4221",
+    "position": "上排第6位",
+    "appearance": ""
+  },
+  "89": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4221 下排第2位。 星數已依放大截圖更正。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4221",
+    "position": "下排第2位",
+    "appearance": ""
+  },
+  "49": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4221 下排第3位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4221",
+    "position": "下排第3位",
+    "appearance": ""
+  },
+  "101": {
+    "owned": true,
+    "star": "紫1",
+    "note": "2026/10/03 重新核對 IMG_4221 下排第6位。外觀：新版外觀。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4221",
+    "position": "下排第6位",
+    "appearance": "新版外觀"
+  },
+  "46": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4222 上排第1位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4222",
+    "position": "上排第1位",
+    "appearance": ""
+  },
+  "30": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4222 上排第2位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4222",
+    "position": "上排第2位",
+    "appearance": ""
+  },
+  "69": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4222 上排第3位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4222",
+    "position": "上排第3位",
+    "appearance": ""
+  },
+  "48": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4222 上排第4位。外觀：史詩版本。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4222",
+    "position": "上排第4位",
+    "appearance": "史詩版本"
+  },
+  "85": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4222 上排第5位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4222",
+    "position": "上排第5位",
+    "appearance": ""
+  },
+  "99": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4222 上排第6位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4222",
+    "position": "上排第6位",
+    "appearance": ""
+  },
+  "88": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4222 下排第1位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4222",
+    "position": "下排第1位",
+    "appearance": ""
+  },
+  "70": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4222 下排第2位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4222",
+    "position": "下排第2位",
+    "appearance": ""
+  },
+  "86": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4222 下排第3位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4222",
+    "position": "下排第3位",
+    "appearance": ""
+  },
+  "32": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4222 下排第4位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4222",
+    "position": "下排第4位",
+    "appearance": ""
+  },
+  "62": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4222 下排第6位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4222",
+    "position": "下排第6位",
+    "appearance": ""
+  },
+  "68": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4223 上排第3位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4223",
+    "position": "上排第3位",
+    "appearance": ""
+  },
+  "66": {
+    "owned": true,
+    "star": "金5",
+    "note": "2026/10/03 重新核對 IMG_4223 上排第5位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4223",
+    "position": "上排第5位",
+    "appearance": ""
+  },
+  "106": {
+    "owned": true,
+    "star": "金5",
+    "note": "2026/10/03 重新核對 IMG_4223 上排第6位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4223",
+    "position": "上排第6位",
+    "appearance": ""
+  },
+  "82": {
+    "owned": true,
+    "star": "金5",
+    "note": "2026/10/03 重新核對 IMG_4223 下排第1位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4223",
+    "position": "下排第1位",
+    "appearance": ""
+  },
+  "102": {
+    "owned": true,
+    "star": "金6",
+    "note": "2026/10/03 重新核對 IMG_4224 上排第4位。",
+    "reviewedAt": "2026-10-03",
+    "screenshot": "IMG_4224",
+    "position": "上排第4位",
+    "appearance": ""
+  },
+  "0": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "1": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "6": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "7": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "10": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "11": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "13": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "14": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "16": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "17": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "19": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "20": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "21": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "22": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "24": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "25": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "27": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "33": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "34": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "35": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "37": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "38": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "39": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "40": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "42": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "44": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "47": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "50": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "53": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "54": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "55": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "56": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "58": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "59": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "60": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "61": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "63": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "73": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "75": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "77": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "78": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "79": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "80": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "81": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "83": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "90": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "92": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "94": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "95": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "96": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "97": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "98": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "100": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  },
+  "103": {
+    "owned": false,
+    "star": "待確認",
+    "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
+    "confirmed": true
+  }
+}
