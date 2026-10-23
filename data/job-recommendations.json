@@ -1,0 +1,429 @@
+{
+  "checkedAt": "2026-10-23",
+  "officialSource": "https://sod.game-beans.com/jx/sodNotice/20250730/7214.html",
+  "items": [
+    {
+      "characterId": "16",
+      "name": "天后 • 赫拉",
+      "row": 5,
+      "recommendation": "神射手",
+      "equipment": "急速套 / 低語/鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "specialist": false
+    },
+    {
+      "characterId": "17",
+      "name": "太陽神 • 阿波羅",
+      "row": 6,
+      "recommendation": "狩獵狂人",
+      "equipment": "攻擊套/爆傷套 / 低語+鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "specialist": false
+    },
+    {
+      "characterId": "19",
+      "name": "紳士怪盜 • 亞森羅蘋",
+      "row": 8,
+      "recommendation": "神射手",
+      "equipment": "急速套 / 減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "specialist": false
+    },
+    {
+      "characterId": "20",
+      "name": "破魔巫女 • 卑彌呼",
+      "row": 9,
+      "recommendation": "神射手",
+      "equipment": "攻擊套/爆傷套 / 低語+鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "specialist": false
+    },
+    {
+      "characterId": "21",
+      "name": "炎魔 • 依芙利特",
+      "row": 10,
+      "recommendation": "光明遊俠",
+      "equipment": "爆擊套/爆傷套 / 低語/鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "specialist": false
+    },
+    {
+      "characterId": "22",
+      "name": "腐敗花蕾 • 寧蘿絲",
+      "row": 11,
+      "recommendation": "神射手",
+      "equipment": "攻速套/爆傷套 / 低語/鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "specialist": false
+    },
+    {
+      "characterId": "22",
+      "name": "腐敗花蕾 • 寧蘿絲         (專武)",
+      "row": 12,
+      "recommendation": "神射手",
+      "equipment": "低語/鷹像/攻擊套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "specialist": true
+    },
+    {
+      "characterId": "24",
+      "name": "智慧巨人 • 密米爾",
+      "row": 13,
+      "recommendation": "神射手",
+      "equipment": "急速套/爆傷套 / 低語+鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "specialist": false
+    },
+    {
+      "characterId": "28",
+      "name": "萬蛇之母 • 美杜莎",
+      "row": 17,
+      "recommendation": "神射手",
+      "equipment": "攻速套+提豐+龍血 / or / 急速套+減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "specialist": false
+    },
+    {
+      "characterId": "29",
+      "name": "雙生鴉靈 • 福金&霧尼",
+      "row": 18,
+      "recommendation": "神射手",
+      "equipment": "攻速套 / 提豐+鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1378722359",
+      "specialist": false
+    },
+    {
+      "characterId": "90",
+      "name": "愛神 • 維納斯",
+      "row": 4,
+      "recommendation": "高階祭司",
+      "equipment": "生命套/急速套 / 減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "specialist": false
+    },
+    {
+      "characterId": "92",
+      "name": "死亡女神 • 海拉",
+      "row": 6,
+      "recommendation": "高階祭司",
+      "equipment": "急速套  /  減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "specialist": false
+    },
+    {
+      "characterId": "96",
+      "name": "護戒聖女 • 絲碧莫",
+      "row": 10,
+      "recommendation": "誅罪官(PVP) / 神官(通用)",
+      "equipment": "攻速套 / 減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "specialist": false
+    },
+    {
+      "characterId": "97",
+      "name": "繁星魔女 • 莫甘娜",
+      "row": 11,
+      "recommendation": "誅罪官",
+      "equipment": "急速套 / 減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "specialist": false
+    },
+    {
+      "characterId": "98",
+      "name": "湖中仙女 • 薇薇安",
+      "row": 12,
+      "recommendation": "神官 / 高階祭司",
+      "equipment": "攻擊套 / 斬艦者+龍血",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "specialist": false
+    },
+    {
+      "characterId": "101",
+      "name": "英雄導師 • 喀戎",
+      "row": 15,
+      "recommendation": "誅罪官 / 祭司",
+      "equipment": "生命套 / 加費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "specialist": false
+    },
+    {
+      "characterId": "103",
+      "name": "聖劍主教 • 奧菲利亞",
+      "row": 17,
+      "recommendation": "誅罪官(PVP) / 神官(通用)",
+      "equipment": "攻擊套/急速套 / 減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "specialist": false
+    },
+    {
+      "characterId": "104",
+      "name": "鐵胃暴君 • 卡利古拉",
+      "row": 18,
+      "recommendation": "誅罪官 / 高階祭司",
+      "equipment": "生命套/急速套 / 減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "specialist": false
+    },
+    {
+      "characterId": "105",
+      "name": "遊弋歌姬 • 塞任",
+      "row": 19,
+      "recommendation": "神官 / 高階祭司",
+      "equipment": "生命套/急速套 / 減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "specialist": false
+    },
+    {
+      "characterId": "106",
+      "name": "妖精仙后 • 提坦妮婭",
+      "row": 20,
+      "recommendation": "神官",
+      "equipment": "生命套/急速套 / 減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "specialist": false
+    },
+    {
+      "characterId": "36",
+      "name": "小惡魔女僕 • 瑪莉•蘿絲",
+      "row": 7,
+      "recommendation": "角鬥士",
+      "equipment": "生命套/喵喵拳/龜殼",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": false
+    },
+    {
+      "characterId": "39",
+      "name": "斷罪之翼 • 安德瓦莉",
+      "row": 10,
+      "recommendation": "劍術大師",
+      "equipment": "",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": false
+    },
+    {
+      "characterId": "40",
+      "name": "惡欲魔王 • 阿斯莫德",
+      "row": 11,
+      "recommendation": "狂戰士 / 劍術大師",
+      "equipment": "生命套/急速套 / 吸血劍.雕像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": false
+    },
+    {
+      "characterId": "40",
+      "name": "惡欲魔王 • 阿斯莫德         (專武)",
+      "row": 12,
+      "recommendation": "狂戰士 / 劍術大師",
+      "equipment": "生命套/急速套 / 吸血劍.雕像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": true
+    },
+    {
+      "characterId": "42",
+      "name": "四聖 • 青龍",
+      "row": 13,
+      "recommendation": "重裝騎士",
+      "equipment": "生命套/急速套 / 加費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": false
+    },
+    {
+      "characterId": "42",
+      "name": "四聖 • 青龍                        (專武)",
+      "row": 14,
+      "recommendation": "重裝騎士",
+      "equipment": "生命套/急速套 / 加費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": true
+    },
+    {
+      "characterId": "44",
+      "name": "嗜血魔劍 • 提爾鋒",
+      "row": 15,
+      "recommendation": "重裝騎士 / 劍術大師",
+      "equipment": "暴擊套/攻速套 / 低語+鷹像/",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": false
+    },
+    {
+      "characterId": "44",
+      "name": "嗜血魔劍 • 提爾鋒         (專武)",
+      "row": 16,
+      "recommendation": "重裝騎士 / 劍術大師",
+      "equipment": "暴傷套/攻速套 / 低語+鷹像/水瓶(專武)",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": true
+    },
+    {
+      "characterId": "46",
+      "name": "迷宮魔王 • 米諾陶",
+      "row": 17,
+      "recommendation": "重裝騎士 / 劍術大師",
+      "equipment": "攻擊套/攻速套 / 低語+生存飾品",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": false
+    },
+    {
+      "characterId": "47",
+      "name": "屠龍勇士 • 齊格菲",
+      "row": 18,
+      "recommendation": "劍術大師",
+      "equipment": "攻擊套/生命套 / 憤怒套裝",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": false
+    },
+    {
+      "characterId": "48",
+      "name": "戎裝公主 • 齊格菲",
+      "row": 19,
+      "recommendation": "重裝騎士",
+      "equipment": "急速套 / 減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": false
+    },
+    {
+      "characterId": "49",
+      "name": "六臂蛇魔 • 瑪麗莉絲",
+      "row": 20,
+      "recommendation": "劍術大師",
+      "equipment": "生命套 / 低語+生存飾品",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": false
+    },
+    {
+      "characterId": "50",
+      "name": "女武神 • 布倫希爾德",
+      "row": 21,
+      "recommendation": "狂戰士",
+      "equipment": "爆擊套 / 低語+鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": false
+    },
+    {
+      "characterId": "51",
+      "name": "狂獵之王 • 貝奧武夫",
+      "row": 22,
+      "recommendation": "劍術大師",
+      "equipment": "生命套 / 低語+生存飾品",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1719387111",
+      "specialist": false
+    },
+    {
+      "characterId": "73",
+      "name": "詭計之神 • 洛基",
+      "row": 5,
+      "recommendation": "星象家(純輔)   首席(輸出)",
+      "equipment": "爆傷套 / 低語+鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "specialist": false
+    },
+    {
+      "characterId": "74",
+      "name": "海神 • 波賽頓",
+      "row": 6,
+      "recommendation": "元素師(元素隊)   魔藥師(通用隊)",
+      "equipment": "爆擊套/爆傷套 / 低語+龍血",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "specialist": false
+    },
+    {
+      "characterId": "77",
+      "name": "青銅神姬 • 塔蘿絲",
+      "row": 9,
+      "recommendation": "星象家(純輔)   首席(輸出)",
+      "equipment": "攻擊套/爆傷套 / 低語+鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "specialist": false
+    },
+    {
+      "characterId": "79",
+      "name": "大天使 • 加百列",
+      "row": 11,
+      "recommendation": "符文法師(高階)",
+      "equipment": "攻擊套/爆傷套 / 低語+鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "specialist": false
+    },
+    {
+      "characterId": "87",
+      "name": "烈焰魔女 • 梅琳娜",
+      "row": 19,
+      "recommendation": "元素使",
+      "equipment": "攻擊套/爆傷套 / 低語+鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "specialist": false
+    },
+    {
+      "characterId": "88",
+      "name": "暗影元素 • 泰爾佩瑞恩",
+      "row": 20,
+      "recommendation": "元素使",
+      "equipment": "攻擊套/爆傷套 / 低語+鷹像",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=520944077",
+      "specialist": false
+    },
+    {
+      "characterId": "65",
+      "name": "仲夏夜之夢 • 奧伯隆妮",
+      "row": 15,
+      "recommendation": "守護者",
+      "equipment": "生命套 / 君炎劍+龜殼",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "specialist": false
+    },
+    {
+      "characterId": "66",
+      "name": "冥界判官 • 阿努比斯",
+      "row": 16,
+      "recommendation": "守護者",
+      "equipment": "生命套 / 君炎劍+龜殼",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "specialist": false
+    },
+    {
+      "characterId": "68",
+      "name": "荒野暴徒 • 歐律提翁",
+      "row": 18,
+      "recommendation": "獅心騎士",
+      "equipment": "生命套 / 真理套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "specialist": false
+    },
+    {
+      "characterId": "69",
+      "name": "古樹守衛 • 特拉希爾",
+      "row": 19,
+      "recommendation": "守護者",
+      "equipment": "生命套 / 君炎劍+龜殼",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "specialist": false
+    },
+    {
+      "characterId": "70",
+      "name": "遠古魔像 • 戈輪",
+      "row": 20,
+      "recommendation": "獅心騎士",
+      "equipment": "生命套 / 減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "specialist": false
+    },
+    {
+      "characterId": "71",
+      "name": "史萊姆王 • 咕咚",
+      "row": 21,
+      "recommendation": "殉道者",
+      "equipment": "生命套 / 加費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1397375533",
+      "specialist": false
+    },
+    {
+      "characterId": "102",
+      "name": "哥布林擂鼓手",
+      "row": 16,
+      "recommendation": "神官 / 祭司",
+      "equipment": "攻速套/急速套 / 減費套",
+      "source": "https://docs.google.com/spreadsheets/d/e/2PACX-1vREVRXcRDNRRKeVnVVseKgTcc4X5nHulX90S8CqalKqY_o85lrsOKPv2kA7SJvYgPNVNydzGU2aAMSl/pubhtml?gid=1689521295",
+      "specialist": false
+    }
+  ]
+}
