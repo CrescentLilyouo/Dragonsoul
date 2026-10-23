@@ -1,6 +1,7 @@
 'use client';
 import {useEffect,useState} from 'react';
 import events from '@/data/events.json';
+import ActivityGuides from '@/components/activity-guides';
 
 const groups=[
  {name:'魔物',items:[{name:'水銀秘藥（藍水）',points:2},{name:'靈魂煉劑（紫水）',points:10},{name:'命運魔藥（橘水）',points:15}]},
@@ -13,6 +14,7 @@ const num=(v:string)=>Math.max(0,Math.min(10000000,Math.floor(Number(v)||0)));
 export default function EventBudget(){
  const [now,setNow]=useState(()=>Date.now());
  useEffect(()=>{const timer=setInterval(()=>setNow(Date.now()),30000);return()=>clearInterval(timer);},[]);
+ const [section,setSection]=useState('攻略');
  const [category,setCategory]=useState('全部');
  const [counts,setCounts]=useState<Record<string,number>>({});
  const [target,setTarget]=useState(2700);
@@ -23,7 +25,10 @@ export default function EventBudget(){
  const pending=filtered.filter(e=>!e.start||!e.end||Date.parse(e.start)>now);
  const cards=(items:typeof events.items)=><div className="event-list">{items.map(e=><article key={e.name} className="text-panel"><span className="eyebrow">{e.group}</span><h3>{e.name}</h3><p className="date-range">{e.when}（台灣時間）</p><dl><dt>低標目標</dt><dd>{e.goal}</dd><dt>資源需求</dt><dd>{e.budget}</dd><dt>停手與注意</dt><dd>{e.stop}</dd></dl><span className="pill">{e.status}</span><div className="event-sources">{e.sources.map(s=><a key={s.url} href={s.url} target="_blank" rel="noreferrer">{sourceLabels[s.label]||s.label} ↗</a>)}</div></article>)}</div>;
  return <>
-  <div className="page-heading"><div><p className="eyebrow">EVENT RESOURCE PLANNER</p><h1>活動與資源預算</h1><p>先存到一個完整獎勵檔，再決定是否繼續。</p></div><span className="pill">核對 {events.checkedAt.replaceAll('-','/')}</span></div>
+  <div className="page-heading"><div><p className="eyebrow">EVENT RESOURCE PLANNER</p><h1>活動攻略與資源預算</h1><p>先存到一個完整獎勵檔，再決定是否繼續。</p></div><span className="pill">核對 {events.checkedAt.replaceAll('-','/')}</span></div>
+  <div className="equipment-tabs" role="group" aria-label="活動頁內容">{['攻略','檔期','預算'].map(v=><button key={v} aria-pressed={section===v} onClick={()=>setSection(v)}>{{攻略:'玩法攻略',檔期:'進行中與歷史活動',預算:'囤貨與積分計算'}[v]}</button>)}</div>
+  {section==='攻略'&&<ActivityGuides/>}
+  {section==='預算'&&<>
   <div className="notice"><span>這裡的「低標」先定義為：輪替養成完成一輪；其他活動拿免費任務或自選核心獎勵。不是排名獎勵，也不代表整期商店全清。</span></div>
   <section className="text-panel"><h2>先存多少？三種輪替活動</h2><p>台服玩家整理的一輪門檻為 2,700 分。以下是從零分開始、只用單一資源的等價需求；同一列可混用，不用每種都存滿。</p>
    <div className="event-quick-grid"><article><h3>魔物</h3><strong>紫水 270 瓶</strong><p>或藍水 1,350／橘水 180</p></article><article><h3>神器</h3><strong>黃金號角 270 個</strong><p>或命運號角 180</p></article><article><h3>龍語</h3><strong>傳承龍晶 900 個</strong><p>或命運龍晶 540</p></article></div>
@@ -44,11 +49,14 @@ export default function EventBudget(){
     </article>;
    })}</div><p className="caption">本頁輸入僅供當次計算，重新整理會清空。不自動辨認背包圖示，也不自動扣減資源。</p>
   </section>
+  </>}
+  {section==='檔期'&&<>
   <div className="section-top"><h2>活動清單・{events.items.length} 類</h2><p className="caption">涵蓋本期及已查證歷史活動；不保證歷史活動必定復刻。</p></div>
   <div className="event-filters" role="group" aria-label="活動分類">{categories.map(c=><button key={c} aria-pressed={category===c} onClick={()=>setCategory(c)}>{c}</button>)}</div>
   <section className="event-section"><h2 className="section-title">進行中 · {current.length}</h2><p className="caption">依台灣時間自動分類；個人活動仍以遊戲內倒數為準。</p>{current.length?cards(current):<p className="caption">此分類目前沒有已確認進行中的活動。</p>}</section>
   {pending.length>0&&<section className="event-section"><h2 className="section-title">尚未開始／檔期待確認 · {pending.length}</h2><p className="caption">歷史規則供備存資源參考，不代表目前已開放。</p>{cards(pending)}</section>}
   <details className="event-archive"><summary>已結束活動 · {ended.length}<span>點擊展開／收合</span></summary>{ended.length?cards(ended):<p className="caption">此分類沒有已結束的活動。</p>}</details>
-  <section className="text-panel"><h2>還缺哪些資料才能算「全部低標拿滿」？</h2><p>需要本期魔物／獵蟒／魔法的各輪獎勵與計分頁，以及海神寶庫、探寶尋珍、節慶商店的目標商品價格。已確認的固定門檻先列出；未公開的部分不填猜測數字。</p><p>你目前背包截圖顯示 2,780 鑽，但券種與剩餘庫存未重新確認。先把券數輸入上面的計算器；鑽石追加額須按當期商店價格與購買上限另算。</p></section>
+  </>}
+  <p className="caption">本期門檻、商店價格與個人倒數以遊戲內頁面為準；未核實的固定抽數、保底與工具需求不作保證。</p>
  </>;
 }
