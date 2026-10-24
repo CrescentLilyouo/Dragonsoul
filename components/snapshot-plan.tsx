@@ -10,12 +10,12 @@ const guide=guideData as Record<string,Entry[]>;
 const official=officialData as Record<string,{image:string,source:string,name:string}>;
 const sets:Record<string,string[]>={haste:['奇术兜帽','奇术长袍','奇术护手','奇术长靴'],cost:['繁星魔导书','繁星魔导器'],life:['君炎头盔','君炎护甲','君炎护手','君炎战靴'],crit:['圣骑头盔','圣骑战甲','圣骑护手','圣骑战靴'],fee:['玛娜的潮汐','玛娜之泪']};
 export default function SnapshotPlan({roster,imagePath}:{roster:Roster,imagePath:(p:string)=>string}){
- const [mode,setMode]=useState('PVE');const ids=['57','18','91','93','2',mode==='PVE'?'9':'99'];
+ const [mode,setMode]=useState('PVE'),[gaiaTrial,setGaiaTrial]=useState(false);const candidateIds=['57','18','91','93','2',gaiaTrial?'56':mode==='PVE'?'9':'99'];const ids=candidateIds.filter(id=>roster[id]?.owned);
  function pictures(names:string[]){return <div className="verified-gear-grid">{names.map(name=>{const g=gear.find(g=>g.name===name);return g?<figure key={name}><img src={imagePath(g.image)} alt={g.name} loading="lazy"/><figcaption>{g.name}</figcaption></figure>:null})}</div>}
- return <section><div className="page-heading"><div><p className="eyebrow">SOURCE VERIFIED · 2026/10/22</p><h2>官方角色對照與配裝圖鑑</h2><p>角色按完整稱號＋姓名對應原表；裝備以圖鑑的具名圖片展示。</p></div></div>
- <p className="notice warning">已撤回上一版「背包圖示＝指定裝備」與唯一繁星套等庫存分配結論。以下是配裝目標，不代表你的背包已確認擁有；持有星數保留現有紀錄，尚未重新確認的截圖身分不作新結論。</p>
+ return <section><div className="page-heading"><div><p className="eyebrow">ROSTER UPDATE · 2026/10/25</p><h2>官方角色對照與配裝圖鑑</h2><p>角色按完整稱號＋姓名對應原表；裝備以圖鑑的具名圖片展示。</p></div></div>
+ <p className="notice warning">已撤回上一版「背包圖示＝指定裝備」與唯一繁星套等庫存分配結論。以下是配裝目標，不代表你的背包已確認擁有；持有星數依10/25備份及瀏覽器後續修改；角色持有不代表已持有推薦裝備。</p>
  <div className="equipment-tabs">{['PVE','PVP'].map(m=><button key={m} aria-pressed={mode===m} onClick={()=>setMode(m)}>{m}</button>)}</div>
- <p>暫留六人試隊：{ids.map(id=>characters.find(c=>c.id===id)?.short).join('、')}。這是先前試隊，並非原表指定陣容；本次修正圖片與配裝依據，不把它標成已驗證最佳隊。</p>
+ <p><label><input type="checkbox" checked={gaiaTrial} disabled={!roster['56']?.owned} onChange={e=>setGaiaTrial(e.target.checked)}/> 比較蓋亞雙前排（替換第六位；保留冰坦）</label></p><p className="notice">蓋亞目前：{roster['56']?.owned?roster['56'].star:'未持有'}。紫1僅作試隊，原表最低建議紅1；開場權杖需天賦4，先看遊戲實際解鎖。幻境／彼岸隊友受益較完整；冰坦不屬這兩陣營，不能套同陣營庇護。<a href="https://sod.game-beans.com/jx/sodNotice/20260819/8194.html" target="_blank" rel="noreferrer">台服技能來源 ↗</a></p><p>目前{gaiaTrial?'蓋亞雙前排試隊':'既有核心試隊'}：{ids.map(id=>characters.find(c=>c.id===id)?.short).join('、')}。依目前持有篩選，未持有者不列入；不足六人請先補位。以同一關卡比較首次奧義、核心存活與整隊傷害，再決定是否換人。此為本站試隊建議，非原表指定陣容。</p>
  <p className="caption">官方角色圖：台服公告。裝備單品圖：4399陸服圖鑑，保留原始簡體品名以便逐字核對，非台服官方圖鑑。套裝效果另附遊戲帳號發布的原圖；跨服數值不直接當成台服現況。</p>
  <div className="loadout-grid">{ids.map(id=>{const c=characters.find(c=>c.id===id)!;const o=official[id];let groups=['haste','cost'];if(id==='18')groups=['haste'];if(id==='9')groups=['crit'];if(id==='2'&&mode==='PVP')groups=['life'];return <article className="text-panel" key={id}>
  <div className="equipment-face"><img src={imagePath(c.portrait)} alt={c.name}/><div><h3>{c.name}</h3><p>{roster[id]?.star??'星數待核對'} · 原表頭像</p></div></div>

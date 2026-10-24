@@ -703,8 +703,8 @@
     "confirmed": true
   },
   "56": {
-    "owned": false,
-    "star": "待確認",
+    "owned": true,
+    "star": "紫1",
     "note": "依使用者指示：未出現在已辨識截圖名單中，視為未持有。",
     "confirmed": true
   },

@@ -12,7 +12,7 @@ const categories=['全部',...new Set(events.items.map(e=>e.group))];
 const sourceLabels:Record<string,string>={guide:'台服玩家：佳里攻略',current:'台服官方 9/30',autumn:'台服官方 9/23',monster:'台服官方 7/15',mine:'台服官方 6/9',sea:'台服官方 9/16',myth:'台服玩家：神話階段',old:'2025 舊版資源攻略',season:'台服官方 5/14'};
 const guideIds:Record<string,string>={'神奇魔物在哪裡／限定煉製':'monster','獵蟒行動／限定奪寶':'artifact','魔法衝刺／限定創造':'magic','新傳說＋主題／升星好禮':'theme','神話召喚／累抽階段':'myth','神話戰令／升星計畫':'pass','全角色特別返場':'free-return','精選返場／歡顏之星':'return','海神寶庫':'sea','探寶尋珍':'dig','拼圖有禮':'puzzle','公會探索／探索達人':'explore','陣營巡禮':'pilgrimage','中秋：七日獻禮／月相商店':'festival','巴別塔試煉':'babel','時之隙':'rift','大型主題活動：綠茵神杯等':'cup','超能少女養成中／超能補給站':'super'};
 const num=(v:string)=>Math.max(0,Math.min(10000000,Math.floor(Number(v)||0)));
-export default function EventBudget(){
+export default function EventBudget({roster}:{roster:Record<string,{owned:boolean;star:string}>}){
  const [now,setNow]=useState(()=>Date.now());
  useEffect(()=>{const timer=setInterval(()=>setNow(Date.now()),30000);return()=>clearInterval(timer);},[]);
  const [section,setSection]=useState('攻略');
@@ -28,6 +28,7 @@ export default function EventBudget(){
  const cards=(items:typeof events.items)=><div className="event-list">{items.map(e=><article key={e.name} className="text-panel"><span className="eyebrow">{e.group}</span><h3>{e.name}</h3>{guideIds[e.name]&&<button className="activity-read-link" onClick={()=>{setGuideFocus(guideIds[e.name]);setSection('攻略');}}>查看玩法與兌換攻略 ↗</button>}<p className="date-range">{e.when}（台灣時間）</p><dl><dt>低標目標</dt><dd>{e.goal}</dd><dt>資源需求</dt><dd>{e.budget}</dd><dt>停手與注意</dt><dd>{e.stop}</dd></dl><span className="pill">{e.status}</span><div className="event-sources">{e.sources.map(s=><a key={s.url} href={s.url} target="_blank" rel="noreferrer">{sourceLabels[s.label]||s.label} ↗</a>)}</div></article>)}</div>;
  return <>
   <div className="page-heading"><div><p className="eyebrow">EVENT RESOURCE PLANNER</p><h1>活動攻略與資源預算</h1><p>先存到一個完整獎勵檔，再決定是否繼續。</p></div><span className="pill">核對 {events.checkedAt.replaceAll('-','/')}</span></div>
+  <section className="text-panel"><h2>依你的持有決定活動資源</h2><p>蓋亞：{roster['56']?.owned?roster['56'].star:'未持有'}；睡神：{roster['91']?.owned?roster['91'].star:'未持有'}；月神：{roster['15']?.owned?roster['15'].star:'未持有'}。先看「補強規劃」選一個神話目標，再核對本期可選角色、累抽與戰令；不因持有新增角色就平均分散資源。</p><p>蓋亞若仍紫1，先用備品試隊；山銅與琥珀保留給確定上場且已解鎖的角色。挖土、魔物、神器與龍語各用自己的活動門檻，不能拿神話券預算互相抵扣。</p></section>
   <div className="equipment-tabs" role="group" aria-label="活動頁內容">{['攻略','檔期','預算'].map(v=><button key={v} aria-pressed={section===v} onClick={()=>setSection(v)}>{{攻略:'玩法攻略',檔期:'進行中與歷史活動',預算:'囤貨與積分計算'}[v]}</button>)}</div>
   {section==='攻略'&&<ActivityGuides key={guideFocus} initialId={guideFocus} onOpenBudget={()=>setSection('預算')}/>}
   {section==='預算'&&<>
