@@ -1,0 +1,366 @@
+{
+  "checkedAt": "2026-10-25",
+  "images": [
+    {
+      "role": "射手",
+      "title": "炎魔轉職樹範例",
+      "date": "2025/06/23",
+      "note": "這張是炎魔當時的分支樹；能看出「前置路線→終點」的關係，不套用到所有射手。",
+      "image": "/job-references/archer-tree.jpg",
+      "url": "https://www.taptap.cn/moment/686253785646895059",
+      "imageSource": "https://img2-tc.tapimg.com/moment/etag/FtzhyWdIzLtDBulMFx4bk8gAgx-Y.png/_tap_ugc.jpg",
+      "credit": "哈基米旅人；陸服官方帳號轉載的玩家攻略原圖"
+    },
+    {
+      "role": "戰士",
+      "title": "戰士角色轉職對照",
+      "date": "2025/06/23",
+      "note": "圖中的蛇魔等舊推薦與目前原表不同；原圖保留作歷史對照。",
+      "image": "/job-references/warrior-2025.jpg",
+      "url": "https://www.taptap.cn/moment/686253785646895059",
+      "imageSource": "https://img2-tc.tapimg.com/moment/etag/FksQ5eYhOMkSEnAxZ8QqfKrCef5A.png/_tap_ugc.jpg",
+      "credit": "哈基米旅人；陸服官方帳號轉載的玩家攻略原圖"
+    },
+    {
+      "role": "坦克",
+      "title": "守衛／坦克轉職對照",
+      "date": "2025/06/20",
+      "note": "守護者、十字軍、陷陣勇士等屬不同用途；圖內舊角色不能代表新坦克已完成實測。",
+      "image": "/job-references/tank-2025.jpg",
+      "url": "https://www.taptap.cn/moment/685200535279635067",
+      "imageSource": "https://img2-tc.tapimg.com/moment/etag/Fj8Yr5X0x6ozMuLfxG_COwJtKWqE.png/_tap_ugc.jpg",
+      "credit": "哈基米旅人；陸服官方帳號轉載的玩家攻略原圖"
+    },
+    {
+      "role": "牧師",
+      "title": "牧師角色轉職對照",
+      "date": "2025/06/20",
+      "note": "原圖未含睡神與穗香；新角色建議需另看本頁逐角色來源。",
+      "image": "/job-references/priest-2025.jpg",
+      "url": "https://www.taptap.cn/moment/685200535279635067",
+      "imageSource": "https://img2-tc.tapimg.com/moment/etag/FsXllF1UY6lEmI__qEVKYuEeV9vJ.png/_tap_ugc.jpg",
+      "credit": "哈基米旅人；陸服官方帳號轉載的玩家攻略原圖"
+    },
+    {
+      "role": "刺客",
+      "title": "刺客角色轉職對照",
+      "date": "2025/06/20",
+      "note": "原圖未含莉莉絲等後續角色；圖中「影武者」與台服公告「影舞者」寫法不同，不直接視為同一職業。",
+      "image": "/job-references/assassin-2025.jpg",
+      "url": "https://www.taptap.cn/moment/685201434672630398",
+      "imageSource": "https://img2-tc.tapimg.com/moment/etag/FsIdrUSFgEdWjqhYl4JtU1lD7vvz.png/_tap_ugc.jpg",
+      "credit": "哈基米旅人；陸服官方帳號轉載的玩家攻略原圖"
+    }
+  ],
+  "branches": [
+    {
+      "role": "牧師",
+      "name": "高階祭司",
+      "purpose": "提高我方奧義點回復，偏向整隊技能循環。",
+      "when": "隊伍缺費，且尚無其他回能類轉職時。",
+      "avoid": "與服事、祭司等同類回能不疊加；先留一位代表。",
+      "source": "https://www.taptap.cn/moment/685200535279635067",
+      "exampleIds": [
+        "90",
+        "92",
+        "98"
+      ]
+    },
+    {
+      "role": "牧師",
+      "name": "誅罪官",
+      "purpose": "壓低敵方奧義點回復，適合節奏干擾。",
+      "when": "PVP或需要延後敵方奧義，且隊內尚無降能代表時。",
+      "avoid": "同類降能不能靠多位角色重複疊高。",
+      "source": "https://www.taptap.cn/moment/685200535279635067",
+      "exampleIds": [
+        "96",
+        "97",
+        "103"
+      ]
+    },
+    {
+      "role": "牧師",
+      "name": "神官",
+      "purpose": "治療觸發增益，著重隊友收益。",
+      "when": "角色會有效治療，且隊伍已有人提供所需回能時。",
+      "avoid": "先看治療對象和觸發間隔，不能只按牧師標籤選。",
+      "source": "https://www.taptap.cn/moment/685200535279635067",
+      "exampleIds": [
+        "98",
+        "96",
+        "102"
+      ]
+    },
+    {
+      "role": "射手",
+      "name": "神射手",
+      "purpose": "原表多名射手採用的路線；台服曾調高暴傷相關加成。",
+      "when": "先從原表具名角色的既有推薦比較。",
+      "avoid": "不直接把普攻相關收益等同於所有奧義傷害。",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250730/7214.html",
+      "exampleIds": [
+        "19",
+        "22",
+        "24",
+        "29"
+      ]
+    },
+    {
+      "role": "射手",
+      "name": "光明遊俠",
+      "purpose": "與暴擊、多次傷害觸發有關的輸出路線。",
+      "when": "角色有該分支，且能穩定達到觸發條件時。",
+      "avoid": "2025舊攻略的「射手全選」不適用現在所有角色。",
+      "source": "https://www.taptap.cn/moment/686253785646895059",
+      "exampleIds": [
+        "21"
+      ]
+    },
+    {
+      "role": "射手",
+      "name": "狩獵狂人",
+      "purpose": "原表太陽神推薦；月神另有陸服逐角參考。",
+      "when": "先按角色既定用途及可選分支確認。",
+      "avoid": "低星功能位不必為輸出終點搶主隊的命途材料。",
+      "source": "https://reurl.cc/rKOAXk",
+      "exampleIds": [
+        "17",
+        "15"
+      ]
+    },
+    {
+      "role": "戰士",
+      "name": "重裝騎士",
+      "purpose": "以命中敵方單位累積自身防禦收益。",
+      "when": "前排戰士先倒、且能打到多個單位時。",
+      "avoid": "單體與多目標戰鬥的啟動收益不同。",
+      "source": "https://www.gamekee.com/lhlr/691702.html",
+      "exampleIds": [
+        "42",
+        "44",
+        "46"
+      ]
+    },
+    {
+      "role": "戰士",
+      "name": "劍術大師",
+      "purpose": "普攻或技能逐步削減當前目標雙防。",
+      "when": "需要幫主輸出破前排，且能持續攻擊同一目標時。",
+      "avoid": "換目標與其他降防類職業的疊加限制先看台服技能。",
+      "source": "https://www.gamekee.com/lhlr/691702.html",
+      "exampleIds": [
+        "49",
+        "39",
+        "51"
+      ]
+    },
+    {
+      "role": "戰士",
+      "name": "角鬥士",
+      "purpose": "攻擊當前目標提供降防，原表女僕採此路線。",
+      "when": "瑪莉依原表先完成現有路線，確認能活著持續攻擊。",
+      "avoid": "資料站記載與劍術大師有疊加限制；台服需核對。",
+      "source": "https://www.gamekee.com/lhlr/691702.html",
+      "exampleIds": [
+        "36"
+      ]
+    },
+    {
+      "role": "戰士",
+      "name": "狂戰士",
+      "purpose": "傷害附帶自身生命取向的追加傷害。",
+      "when": "生命養成與角色技能適配，且輸出段數能觸發時。",
+      "avoid": "台服官方提醒DOT類傷害不能觸發，不只看面板生命。",
+      "source": "https://www.gamekee.com/lhlr/691702.html",
+      "exampleIds": [
+        "40",
+        "50"
+      ]
+    },
+    {
+      "role": "戰士",
+      "name": "聖教軍",
+      "purpose": "技能施放帶來破擊與進攻增益的路線。",
+      "when": "具頻繁技能施放的角色，且確有這條可用分支時。",
+      "avoid": "蛇魔的歷史圖推薦此路線，目前原表改列劍術大師。",
+      "source": "https://www.taptap.cn/moment/686253785646895059",
+      "exampleIds": []
+    },
+    {
+      "role": "坦克",
+      "name": "守護者",
+      "purpose": "提高後排保護與隊伍容錯。",
+      "when": "後排常被範圍傷害帶走，前排本身尚能站住時。",
+      "avoid": "要先看實際受保護對象，不當成自身生存萬用解。",
+      "source": "https://www.taptap.cn/moment/685200535279635067",
+      "exampleIds": [
+        "65",
+        "66",
+        "69"
+      ]
+    },
+    {
+      "role": "坦克",
+      "name": "十字軍",
+      "purpose": "偏自保、承傷循環；自帶回復或護盾者可比較。",
+      "when": "自身先倒，且角色機制能配合相關防禦收益時。",
+      "avoid": "不能只因有護盾就保證最優；應比較死亡時間。",
+      "source": "https://www.taptap.cn/moment/685200535279635067",
+      "exampleIds": []
+    },
+    {
+      "role": "坦克",
+      "name": "陷陣勇士",
+      "purpose": "偏單前排用途。",
+      "when": "只有一位前排且符合職業條件時，才比較這條。",
+      "avoid": "隊伍另有戰士或其他前排時，重新讀觸發條件。",
+      "source": "https://www.taptap.cn/moment/685200535279635067",
+      "exampleIds": []
+    },
+    {
+      "role": "坦克",
+      "name": "獅心騎士",
+      "purpose": "用控制配合削弱敵方輸出。",
+      "when": "角色能穩定施加有效控制，且需限制敵方輸出時。",
+      "avoid": "敵人免控或控制頻率低時，收益可能不足。",
+      "source": "https://www.taptap.cn/moment/685200535279635067",
+      "exampleIds": [
+        "68",
+        "70"
+      ]
+    },
+    {
+      "role": "法師",
+      "name": "星象家",
+      "purpose": "以技能急速換取輔助頻率，並有傷害取捨。",
+      "when": "洛基、塔蘿絲等採純輔配置時。",
+      "avoid": "當主輸出時不能只因放招更快就判定傷害更高。",
+      "source": "https://www.taptap.cn/moment/685201434672630398",
+      "exampleIds": [
+        "73",
+        "77"
+      ]
+    },
+    {
+      "role": "法師",
+      "name": "首席魔導師",
+      "purpose": "暴擊傷害事件帶來攻擊成長的輸出路線。",
+      "when": "輸出位能穩定暴擊，並有足夠時間累積收益時。",
+      "avoid": "原表「首席」為簡稱；加百列高階推薦另列符文法師。",
+      "source": "https://www.taptap.cn/moment/685201434672630398",
+      "exampleIds": [
+        "73",
+        "77"
+      ]
+    },
+    {
+      "role": "法師",
+      "name": "符文法師",
+      "purpose": "依自身增益狀態強化奧義輸出。",
+      "when": "隊伍能穩定供給增益，角色以奧義輸出為主時。",
+      "avoid": "先看增益覆蓋，不只看進場面板戰力。",
+      "source": "https://www.taptap.cn/moment/685201434672630398",
+      "exampleIds": [
+        "79"
+      ]
+    },
+    {
+      "role": "法師",
+      "name": "元素使／元素師",
+      "purpose": "元素體系的法師路線；原表保留兩種寫法。",
+      "when": "海神在元素隊，或原表指定的元素法師。",
+      "avoid": "名稱與實際效果以台服命途為準，不把陣營相同當唯一條件。",
+      "source": "https://reurl.cc/rKOAXk",
+      "exampleIds": [
+        "74",
+        "87",
+        "88"
+      ]
+    },
+    {
+      "role": "法師",
+      "name": "魔藥師",
+      "purpose": "海神在通用隊的原表備選；台服曾調整觸發條件。",
+      "when": "離開元素隊時，先與現有已啟用路線比較。",
+      "avoid": "官方對每目標觸發間隔有描述，不能假設每段傷害都生效。",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20250730/7214.html",
+      "exampleIds": [
+        "74"
+      ]
+    },
+    {
+      "role": "刺客",
+      "name": "處刑者／處刑人",
+      "purpose": "取得擊殺後強化後續收割。",
+      "when": "角色能可靠收頭，且戰鬥還有後續目標時。",
+      "avoid": "第一個擊殺拿不到時，不能把滿層收益算在起手傷害。",
+      "source": "https://www.taptap.cn/moment/685201434672630398",
+      "exampleIds": []
+    },
+    {
+      "role": "刺客",
+      "name": "假面怪盜",
+      "purpose": "奧義後補暴擊的路線。",
+      "when": "目前暴擊確實不足，且能穩定施放奧義時。",
+      "avoid": "已具足夠暴擊時，重複補暴擊可能不如其他功能。",
+      "source": "https://www.taptap.cn/moment/685201434672630398",
+      "exampleIds": []
+    },
+    {
+      "role": "刺客",
+      "name": "影舞者",
+      "purpose": "技能後強化接續普攻。",
+      "when": "能把技能與普攻交錯，確實打出強化普攻時。",
+      "avoid": "放技能很頻繁也可能讓普攻無法吃滿；要看實戰。",
+      "source": "https://www.gamekee.com/lhlr/691702.html",
+      "exampleIds": []
+    },
+    {
+      "role": "刺客",
+      "name": "綠林俠盜",
+      "purpose": "造成傷害逐步累積攻擊，另有生存取向屬性。",
+      "when": "莉莉絲陸服逐角參考採此路線，先核對台服分支。",
+      "avoid": "不是2025圖內舊刺客的通用答案。",
+      "source": "https://www.gamekee.com/lhlr/691702.html",
+      "exampleIds": [
+        "2"
+      ]
+    },
+    {
+      "role": "刺客",
+      "name": "密探",
+      "purpose": "以攻擊不同敵方幻靈累積攻擊收益。",
+      "when": "能有效打到多個敵方單位時，才比較啟動收益。",
+      "avoid": "只打單一目標的BOSS場合，不能按滿觸發目標估算。",
+      "source": "https://www.gamekee.com/lhlr/691702.html",
+      "exampleIds": []
+    }
+  ],
+  "discrepancies": [
+    {
+      "characterId": "49",
+      "old": "聖教軍",
+      "current": "劍術大師",
+      "note": "以目前原表作角色推薦；舊圖用來理解歷史用途。"
+    },
+    {
+      "characterId": "79",
+      "old": "首席魔導師",
+      "current": "符文法師（高階）",
+      "note": "原表特別註明高階，不把早期攻略的終點當現行終點。"
+    },
+    {
+      "characterId": "29",
+      "old": "光明遊俠",
+      "current": "神射手",
+      "note": "這是版本／來源差異，不代表原圖也寫神射手。"
+    },
+    {
+      "characterId": "28",
+      "old": "遊擊士",
+      "current": "神射手",
+      "note": "按當前原表與實際可選分支確認，勿只照舊攻略加點。"
+    }
+  ]
+}
