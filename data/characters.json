@@ -1885,12 +1885,12 @@
     "variants": [
       {
         "tier": "未評",
-        "requirement": "",
+        "requirement": "最低紅1",
         "equipment": "急速套\n吸血劍/低語.雕像",
-        "oldNote": "",
-        "newNote": "",
-        "pvp": "",
-        "tower": "",
+        "oldNote": "這大概是2026最尷尬的東西吧，PVE沒啥太大幫助",
+        "newNote": "原表建議最低紅1，並認為PVE增益有限。總評未填；PVP與主塔A+為原表分項評價。",
+        "pvp": "A+",
+        "tower": "A+",
         "specialist": false
       }
     ]
