@@ -326,6 +326,24 @@
       "source": "https://sod.game-beans.com/jx/sodNotice/20261020/8289.html",
       "basis": "台服黑帆船長首發召喚開放日；非造型或返場日。",
       "derived": false
+    },
+    "110": {
+      "date": "2026-11-12",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20261111/8346.html",
+      "basis": "台服官方公告：11/12 05:00首次開放裁命女神神話召喚。",
+      "derived": false
+    },
+    "111": {
+      "date": "2026-11-19",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20261118/8360.html",
+      "basis": "依台服官方全新限定召喚開始日。",
+      "derived": false
+    },
+    "112": {
+      "date": "2026-11-05",
+      "source": "https://sod.game-beans.com/jx/sodNotice/20261104/8323.html",
+      "basis": "依台服官方全新限定召喚開始日。",
+      "derived": false
     }
   }
 }

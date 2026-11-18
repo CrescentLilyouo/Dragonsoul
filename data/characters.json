@@ -170,10 +170,10 @@
     "portrait": "/verified-guide/86fb1d976caae5cb.png",
     "variants": [
       {
-        "tier": "A+",
+        "tier": "S",
         "requirement": "太陽神玩家建議是鑽，低標紅1",
         "equipment": "攻速套+貓貓+聖樹",
-        "oldNote": "阿波羅插件。",
+        "oldNote": "二天刻印讓有大範圍多段傷害的角色輸出都更上一層樓，除了老阿波羅，與火槍也非常適配。",
         "newNote": "不組召喚隊可以帶上去輔助增傷",
         "pvp": "A+",
         "tower": "A+",
@@ -1416,7 +1416,7 @@
     "portrait": "/verified-guide/f6be66aa65eb50f0.png",
     "variants": [
       {
-        "tier": "S",
+        "tier": "S+",
         "requirement": "建議是鑽",
         "equipment": "急速套/減費套",
         "oldNote": "陣容構成上會帶冰法.睡神.穗香.火槍，都是有效消耗喚醒搭配他的天賦，整體搭配偏藍，放在元素隊就多一個控場，生存上依賴隊伍持續丟奧義>獲得喚醒>消耗喚醒>觸發天賦冰凍>碎冰，只要技能丟的夠順暢讓敵方常被冰凍他就能活，至於到底該不該抽...如果你是想組藍隊或冰凍隊再抽吧",
@@ -1884,13 +1884,13 @@
     "portrait": "/verified-guide/d4b69be4aa6fd5a2.png",
     "variants": [
       {
-        "tier": "未評",
-        "requirement": "最低紅1",
+        "tier": "S",
+        "requirement": "要就上鑽",
         "equipment": "急速套\n吸血劍/低語.雕像",
-        "oldNote": "這大概是2026最尷尬的東西吧，PVE沒啥太大幫助",
-        "newNote": "原表建議最低紅1，並認為PVE增益有限。總評未填；PVP與主塔A+為原表分項評價。",
-        "pvp": "A+",
-        "tower": "A+",
+        "oldNote": "主戰場在PVP暗隊，PVE作為上減益、控主C跟消盾的存在滿有用，但因為打單體所以難以作為主C。綠黑組合還太少，現階段要去綠隊必需要有神三專武莉莉絲幫忙加費懲戒。混色的話，這兩隻現在配什麼龍都行",
+        "newNote": "",
+        "pvp": "S+",
+        "tower": "S+",
         "specialist": false
       }
     ]
@@ -1939,7 +1939,7 @@
         "tier": "S",
         "requirement": "必須鑽",
         "equipment": "攻擊套/爆傷套\n低語+鷹像",
-        "oldNote": "能搶先手，不吃費用且傷害很高",
+        "oldNote": "能搶先手，不吃費用且傷害很高（已過氣，剩神三專武幫隊友秒開奧義的功能，但像高級角鬥場拼秒數還是得有她）",
         "newNote": "",
         "pvp": "",
         "tower": "S+",
@@ -2336,12 +2336,12 @@
     "portrait": "/verified-guide/572eceefaaa9509a.png",
     "variants": [
       {
-        "tier": "S+",
+        "tier": "SS",
         "requirement": "最低紅1 能鑽則鑽",
         "equipment": "急速套\n減費套",
         "oldNote": "目前紅1不管打藍塔還是暗塔都非常舒服，丟到隊友能減費用這點在暗塔非常有幫助，多功能輔助角 功能多到根本是神話了吧?",
         "newNote": "永久降減傷+降治療效果+降雙防\n增加目標奧義CD\n給隊友攻擊大幅提升.奧義增傷.降奧義費用\n能回血給盾又加雙防\n一坨功能 誰還想跳",
-        "pvp": "",
+        "pvp": "S+",
         "tower": "S+",
         "specialist": false
       }
@@ -2696,17 +2696,17 @@
       "彼岸",
       "奧術"
     ],
-    "role": "新角；金幣／喚醒／火藥桶，未評",
+    "role": "消增益、全隊必爆、範圍減療、無視防禦突破上限至80%",
     "portrait": "/portraits/unverified.svg",
     "variants": [
       {
-        "tier": "未評",
-        "requirement": "待核對",
-        "equipment": "",
-        "oldNote": "",
+        "tier": "S+",
+        "requirement": "紫1可用，為求生存與輸出建議是鑽",
+        "equipment": "有生存壓力就生命吸血鷹像，其餘急速、爆傷、低語皆可",
+        "oldNote": "紫1作為消增益跟減療工具人，上鑽後有80%破防傷害跟火槍差不多，",
         "newNote": "",
         "pvp": "",
-        "tower": "",
+        "tower": "S+",
         "specialist": false
       }
     ]
@@ -2759,6 +2759,84 @@
         "newNote": "",
         "pvp": "",
         "tower": "",
+        "specialist": false
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "name": "裁命女神 • 烏爾德",
+    "short": "烏爾德",
+    "alias": "剪刀✂️",
+    "quality": "神話",
+    "class": "刺客",
+    "factions": [
+      "彼岸",
+      "聖堂"
+    ],
+    "role": "降攻防&減傷、破盾、換位索敵",
+    "portrait": "/verified-guide/d080dd5c0c0ce89c.png",
+    "variants": [
+      {
+        "tier": "S",
+        "requirement": "最低紫3",
+        "equipment": "低語/急速套/雕像",
+        "oldNote": "換位索敵會因為海拉勾而顯得雞肋甚至是缺點，但斷命效果極佳，避免被對面高傷害秒殺、也避免被坦拖時間，不過個人輸出堪慮，當純輔助使用即可。但俗話說得好，鐵打的輔助流水的C",
+        "newNote": "",
+        "pvp": "",
+        "tower": "S+",
+        "specialist": false
+      }
+    ]
+  },
+  {
+    "id": "111",
+    "name": "歎息女妖 • 艾貝爾",
+    "short": "艾貝爾",
+    "alias": "死哥",
+    "class": "法師",
+    "quality": "傳說+",
+    "factions": [
+      "彼岸",
+      "元素"
+    ],
+    "role": "",
+    "portrait": "/verified-guide/3d53df6c9b611700.png",
+    "variants": [
+      {
+        "tier": "未評",
+        "requirement": "",
+        "equipment": "",
+        "oldNote": "",
+        "newNote": "",
+        "pvp": "",
+        "tower": "",
+        "specialist": false
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "name": "戀歌謬斯 • 艾拉托",
+    "short": "艾拉托",
+    "alias": "繆思\n歌姬",
+    "class": "牧師",
+    "quality": "傳說+",
+    "factions": [
+      "聖堂",
+      "元素"
+    ],
+    "role": "分享屬性，群體護盾，消減益，回費",
+    "portrait": "/verified-guide/1e64e573d7d8773a.png",
+    "variants": [
+      {
+        "tier": "S",
+        "requirement": "最低紫一，越高越好",
+        "equipment": "急速套\n減費套                           ",
+        "oldNote": "最有感的是幫隊伍回費，補量跟護盾量也不錯，PVE中規中矩的好用。減療的觸發條件滿嚴苛，當沒有比較好",
+        "newNote": "",
+        "pvp": "",
+        "tower": "S",
         "specialist": false
       }
     ]
